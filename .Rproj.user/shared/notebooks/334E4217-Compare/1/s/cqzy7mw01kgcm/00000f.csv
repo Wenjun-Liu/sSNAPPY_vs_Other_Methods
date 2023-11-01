@@ -1,0 +1,2 @@
+"0","dge$genes %>%"
+"0","    dplyr::filter(gene_name %in% c(""ATF3"", ""NR4A1"", ""ELK4"", ""KLF4"", ""JUN"", ""FOSB""))"

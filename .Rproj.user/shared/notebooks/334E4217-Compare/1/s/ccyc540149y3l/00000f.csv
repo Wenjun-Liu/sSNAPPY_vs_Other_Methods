@@ -1,0 +1,1 @@
+"0","reactome_gs <- sapply(gsTopology, rownames)"

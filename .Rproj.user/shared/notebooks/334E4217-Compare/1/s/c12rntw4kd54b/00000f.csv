@@ -1,0 +1,3 @@
+"0","gsea <-  fgsea(reactome_gs, ranked_list)"
+"0","gsea_sig <- gsea %>%"
+"0","    dplyr::filter(padj < 0.05)"

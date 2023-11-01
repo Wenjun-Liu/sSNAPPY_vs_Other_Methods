@@ -1,0 +1,1877 @@
+Pathway	FDR	Sig in sSNAPPY
+Estrogen-dependent gene expression	0.0444779781791892	FALSE
+RUNX1 interacts with co-factors whose precise effect on RUNX1 targets is not known	0.0444779781791892	FALSE
+SUMOylation of DNA replication proteins	0.0444779781791892	TRUE
+Regulation of TP53 Activity through Acetylation	0.0444779781791892	TRUE
+Mitotic Prophase	0.0444779781791892	TRUE
+SUMOylation of transcription cofactors	0.0444779781791892	TRUE
+SUMOylation of SUMOylation proteins	0.0444779781791892	TRUE
+SARS-CoV-2 Infection	0.0444779781791892	FALSE
+SUMO is transferred from E1 to E2 (UBE2I, UBC9)	0.0444779781791892	TRUE
+SUMO E3 ligases SUMOylate target proteins	0.0444779781791892	TRUE
+SUMO is conjugated to E1 (UBA2:SAE1)	0.0444779781791892	TRUE
+Gene Silencing by RNA	0.0444779781791892	FALSE
+Regulation of TP53 Activity	0.0444779781791892	TRUE
+CD209 (DC-SIGN) signaling	0.0444779781791892	FALSE
+SARS-CoV-2-host interactions	0.0444779781791892	FALSE
+Transcriptional Regulation by E2F6	0.0444779781791892	FALSE
+SUMOylation	0.0444779781791892	TRUE
+SARS-CoV Infections	0.0444779781791892	FALSE
+Interactions of Vpr with host cellular proteins	0.0444779781791892	FALSE
+Vpr-mediated nuclear import of PICs	0.0444779781791892	FALSE
+Transcriptional regulation by small RNAs	0.0444779781791892	FALSE
+ISG15 antiviral mechanism	0.0444779781791892	TRUE
+Nuclear Envelope (NE) Reassembly	0.0444779781791892	FALSE
+Nuclear Envelope Breakdown	0.0444779781791892	TRUE
+Small interfering RNA (siRNA) biogenesis	0.0444779781791892	FALSE
+Cytoprotection by HMOX1	0.0444779781791892	FALSE
+Translocation of ZAP-70 to Immunological synapse	0.0444779781791892	TRUE
+Transcriptional Regulation by TP53	0.0444779781791892	TRUE
+SUMOylation of DNA damage response and repair proteins	0.0444779781791892	TRUE
+Regulation of Glucokinase by Glucokinase Regulatory Protein	0.0444779781791892	FALSE
+Defective TPR may confer susceptibility towards thyroid papillary carcinoma (TPC)	0.0444779781791892	FALSE
+HCMV Late Events	0.0444779781791892	FALSE
+Synthesis of active ubiquitin: roles of E1 and E2 enzymes	0.0444779781791892	FALSE
+Conversion from APC/C:Cdc20 to APC/C:Cdh1 in late anaphase	0.0444779781791892	FALSE
+Nuclear Pore Complex (NPC) Disassembly	0.0444779781791892	TRUE
+TRAF6-mediated induction of TAK1 complex within TLR4 complex	0.0444779781791892	FALSE
+IRAK2 mediated activation of TAK1 complex upon TLR7/8 or 9 stimulation	0.0444779781791892	FALSE
+NS1 Mediated Effects on Host Pathways	0.0444779781791892	FALSE
+SLC transporter disorders	0.0444779781791892	FALSE
+Antiviral mechanism by IFN-stimulated genes	0.0444779781791892	TRUE
+Interleukin-18 signaling	0.0444779781791892	FALSE
+Mitotic Metaphase and Anaphase	0.0444779781791892	FALSE
+PD-1 signaling	0.0444779781791892	FALSE
+Export of Viral Ribonucleoproteins from Nucleus	0.0444779781791892	FALSE
+NEP/NS2 Interacts with the Cellular Export Machinery	0.0444779781791892	FALSE
+SUMOylation of chromatin organization proteins	0.0444779781791892	TRUE
+MyD88 deficiency (TLR2/4)	0.0444779781791892	FALSE
+IRAK4 deficiency (TLR2/4)	0.0444779781791892	FALSE
+Viral Infection Pathways	0.0444779781791892	FALSE
+Mitotic Anaphase	0.0444779781791892	FALSE
+Viral Messenger RNA Synthesis	0.0444779781791892	FALSE
+tRNA processing in the nucleus	0.0444779781791892	FALSE
+RMTs methylate histone arginines	0.0444779781791892	TRUE
+Transcriptional Regulation by VENTX	0.0444779781791892	FALSE
+MicroRNA (miRNA) biogenesis	0.0444779781791892	FALSE
+Transport of Ribonucleoproteins into the Host Nucleus	0.0444779781791892	FALSE
+SUMOylation of RNA binding proteins	0.0444779781791892	TRUE
+Cell Cycle	0.0444779781791892	FALSE
+Metabolism of RNA	0.0444779781791892	TRUE
+Rev-mediated nuclear export of HIV RNA	0.0444779781791892	FALSE
+MASTL Facilitates Mitotic Progression	0.0444779781791892	TRUE
+Nuclear import of Rev protein	0.0444779781791892	FALSE
+Cell Cycle, Mitotic	0.0444779781791892	FALSE
+Regulation of NPAS4 gene expression	0.0444779781791892	TRUE
+Amplification of signal from the kinetochores	0.0444779781791892	FALSE
+Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal	0.0444779781791892	FALSE
+Diseases of mitotic cell cycle	0.04632927250194958	TRUE
+Aberrant regulation of mitotic cell cycle due to RB1 defects	0.04632927250194958	TRUE
+Epigenetic regulation of gene expression	0.04686246543197335	TRUE
+DEx/H-box helicases activate type I IFN and inflammatory cytokines production	0.047131225657377186	FALSE
+Mitotic Spindle Checkpoint	0.047131225657377186	FALSE
+Resolution of Sister Chromatid Cohesion	0.047131225657377186	TRUE
+Influenza Infection	0.047131225657377186	FALSE
+Processing and activation of SUMO	0.047131225657377186	FALSE
+GP1b-IX-V activation signalling	0.047131225657377186	FALSE
+Interactions of Rev with host cellular proteins	0.047131225657377186	FALSE
+Synthesis of Leukotrienes (LT) and Eoxins (EX)	0.047131225657377186	FALSE
+EML4 and NUDC in mitotic spindle formation	0.047131225657377186	FALSE
+HATs acetylate histones	0.047131225657377186	TRUE
+Phosphorylation of Emi1	0.047131225657377186	TRUE
+Pre-NOTCH Transcription and Translation	0.047131225657377186	TRUE
+Formation of Fibrin Clot (Clotting Cascade)	0.047131225657377186	FALSE
+SARS-CoV-2 modulates host translation machinery	0.047285377530542114	FALSE
+Major pathway of rRNA processing in the nucleolus and cytosol	0.047285377530542114	TRUE
+HCMV Early Events	0.047285377530542114	FALSE
+Generation of second messenger molecules	0.047285377530542114	TRUE
+rRNA processing in the nucleus and cytosol	0.047285377530542114	TRUE
+Cell Cycle Checkpoints	0.047285377530542114	FALSE
+Phosphorylation of CD3 and TCR zeta chains	0.047285377530542114	FALSE
+Terminal pathway of complement	0.047285377530542114	TRUE
+Phosphorylation of the APC/C	0.047285377530542114	TRUE
+Transcription of E2F targets under negative control by p107 (RBL1) and p130 (RBL2) in complex with HDAC1	0.047285377530542114	FALSE
+rRNA processing	0.047285377530542114	TRUE
+Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)	0.047285377530542114	FALSE
+IGF1R signaling cascade	0.047285377530542114	FALSE
+Translation of Structural Proteins	0.047285377530542114	FALSE
+Nuclear Events (kinase and transcription factor activation)	0.047285377530542114	FALSE
+Glycolysis	0.047285377530542114	FALSE
+E2F mediated regulation of DNA replication	0.047285377530542114	FALSE
+SARS-CoV-1 Infection	0.047285377530542114	FALSE
+Postmitotic nuclear pore complex (NPC) reformation	0.047285377530542114	FALSE
+Aberrant regulation of mitotic exit in cancer due to RB1 defects	0.047285377530542114	FALSE
+Initiation of Nuclear Envelope (NE) Reformation	0.047285377530542114	FALSE
+HCMV Infection	0.047285377530542114	FALSE
+Unwinding of DNA	0.047285377530542114	FALSE
+Inhibition of the proteolytic activity of APC/C required for the onset of anaphase by mitotic spindle checkpoint components	0.047285377530542114	FALSE
+Inactivation of APC/C via direct inhibition of the APC/C complex	0.047285377530542114	FALSE
+Condensation of Prometaphase Chromosomes	0.047285377530542114	TRUE
+Phase I - Functionalization of compounds	0.047285377530542114	FALSE
+Glucose metabolism	0.047285377530542114	FALSE
+M Phase	0.047285377530542114	FALSE
+Chromatin modifying enzymes	0.047285377530542114	TRUE
+Chromatin organization	0.047285377530542114	TRUE
+G0 and Early G1	0.04741818800028396	FALSE
+U12 Dependent Splicing	0.04741818800028396	FALSE
+Influenza Viral RNA Transcription and Replication	0.04741818800028396	FALSE
+Late SARS-CoV-2 Infection Events	0.04741818800028396	FALSE
+Signaling by FGFR in disease	0.04741818800028396	FALSE
+Regulation of expression of SLITs and ROBOs	0.04741818800028396	FALSE
+SUMOylation of ubiquitinylation proteins	0.04741818800028396	TRUE
+Resolution of D-loop Structures through Synthesis-Dependent Strand Annealing (SDSA)	0.04741818800028396	FALSE
+Antagonism of Activin by Follistatin	0.04741818800028396	FALSE
+tRNA processing	0.04741818800028396	FALSE
+Deubiquitination	0.0478160120627248	TRUE
+Abortive elongation of HIV-1 transcript in the absence of Tat	0.0478160120627248	FALSE
+Competing endogenous RNAs (ceRNAs) regulate PTEN translation	0.0478160120627248	FALSE
+Regulation of NPAS4 mRNA translation	0.0478160120627248	TRUE
+Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex	0.0478160120627248	FALSE
+Transport of the SLBP independent Mature mRNA	0.047970239948166654	TRUE
+Signaling by FGFR2	0.047970239948166654	FALSE
+NFE2L2 regulates pentose phosphate pathway genes	0.048209634641743805	FALSE
+Transport of the SLBP Dependant Mature mRNA	0.04926298049273273	TRUE
+Assembly Of The HIV Virion	0.050259212718144895	FALSE
+TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest	0.05028539850103485	FALSE
+Separation of Sister Chromatids	0.05028539850103485	FALSE
+Infectious disease	0.05028539850103485	FALSE
+IRS-related events triggered by IGF1R	0.05028539850103485	FALSE
+Pausing and recovery of Tat-mediated HIV elongation	0.05028539850103485	FALSE
+Tat-mediated HIV elongation arrest and recovery	0.05028539850103485	FALSE
+Mitotic G1 phase and G1/S transition	0.05113511708104043	FALSE
+Membrane binding and targetting of GAG proteins	0.05113511708104043	FALSE
+Synthesis And Processing Of GAG, GAGPOL Polyproteins	0.05113511708104043	FALSE
+Processing of Capped Intron-Containing Pre-mRNA	0.05204805430269731	TRUE
+Formation of WDR5-containing histone-modifying complexes	0.05204805430269731	FALSE
+Neurotransmitter release cycle	0.05204805430269731	FALSE
+DNA Repair	0.05221720182710846	FALSE
+Transport of Mature mRNAs Derived from Intronless Transcripts	0.05221720182710846	TRUE
+snRNP Assembly	0.05221720182710846	TRUE
+Non-coding RNA Metabolism	0.05221720182710846	TRUE
+PECAM1 interactions	0.05221720182710846	FALSE
+Polo-like kinase mediated events	0.05221720182710846	TRUE
+mRNA Splicing	0.05221720182710846	TRUE
+Transport of Mature mRNA Derived from an Intronless Transcript	0.05221720182710846	TRUE
+Protein ubiquitination	0.0524558618046747	FALSE
+Condensation of Prophase Chromosomes	0.053346178885146325	TRUE
+Negative epigenetic regulation of rRNA expression	0.053412017702636955	TRUE
+TRAF3-dependent IRF activation pathway	0.053412017702636955	TRUE
+Signaling by BMP	0.053425447875910324	FALSE
+SARS-CoV-1-host interactions	0.05463030290375908	FALSE
+Signaling by ROBO receptors	0.05487940108337237	FALSE
+Interleukin-4 and Interleukin-13 signaling	0.05487940108337237	FALSE
+Antimicrobial peptides	0.05491761140818458	FALSE
+pre-mRNA splicing	0.05510992744594671	TRUE
+RNA Polymerase III Transcription Initiation From Type 1 Promoter	0.05510992744594671	FALSE
+Chromosome Maintenance	0.05545943260628038	FALSE
+Homologous DNA Pairing and Strand Exchange	0.057536909095407825	TRUE
+E2F-enabled inhibition of pre-replication complex formation	0.057536909095407825	FALSE
+Nonsense-Mediated Decay (NMD)	0.059544668930375924	TRUE
+Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)	0.059544668930375924	TRUE
+APEX1-Independent Resolution of AP Sites via the Single Nucleotide Replacement Pathway	0.06013498213493337	FALSE
+RHO GTPases Activate Formins	0.06061496186334967	FALSE
+NGF-stimulated transcription	0.06061496186334967	TRUE
+SARS-CoV-1 modulates host translation machinery	0.06061496186334967	FALSE
+HIV elongation arrest and recovery	0.06094857882799181	FALSE
+Pausing and recovery of HIV elongation	0.06094857882799181	FALSE
+G2/M Checkpoints	0.06094857882799181	TRUE
+DNA Replication	0.06094857882799181	FALSE
+S Phase	0.06094857882799181	FALSE
+Signaling by FGFR2 in disease	0.06094857882799181	FALSE
+TICAM1,TRAF6-dependent induction of TAK1 complex	0.06094857882799181	FALSE
+SRP-dependent cotranslational protein targeting to membrane	0.06094857882799181	FALSE
+Signaling by FGFR	0.06094857882799181	FALSE
+DNA Double-Strand Break Repair	0.06094857882799181	FALSE
+DNA Damage Bypass	0.06094857882799181	FALSE
+G2/M DNA damage checkpoint	0.06118845549903636	FALSE
+Ub-specific processing proteases	0.06118845549903636	FALSE
+Transcription of E2F targets under negative control by DREAM complex	0.06118845549903636	FALSE
+G1/S-Specific Transcription	0.06118845549903636	FALSE
+Biological oxidations	0.06118845549903636	FALSE
+APC/C-mediated degradation of cell cycle proteins	0.06118845549903636	FALSE
+Regulation of mitotic cell cycle	0.06118845549903636	FALSE
+rRNA modification in the nucleus and cytosol	0.06118845549903636	FALSE
+cell division	0.06259713054172326	TRUE
+Disease	0.06355514509992727	FALSE
+G1/S Transition	0.0643004516940901	FALSE
+HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA)	0.0643004516940901	FALSE
+DNA Double Strand Break Response	0.0643004516940901	FALSE
+Diseases of Immune System	0.0643004516940901	FALSE
+Defects in Toll-like Receptor Cascades	0.0643004516940901	FALSE
+Positive epigenetic regulation of rRNA expression	0.0643004516940901	TRUE
+Gene expression (Transcription)	0.06460598128657197	TRUE
+Synthesis of DNA	0.06564851573331897	FALSE
+TP53 Regulates Metabolic Genes	0.06567642964698332	FALSE
+FRS-mediated FGFR2 signaling	0.06828551826676639	FALSE
+Regulation of TP53 Activity through Phosphorylation	0.0699294958597877	FALSE
+FRS-mediated FGFR3 signaling	0.07022741132507723	FALSE
+FRS-mediated FGFR4 signaling	0.07022741132507723	FALSE
+Nucleotide Excision Repair	0.07022741132507723	FALSE
+Selenocysteine synthesis	0.07022741132507723	FALSE
+Cyclin A/B1/B2 associated events during G2/M transition	0.0703978274420584	TRUE
+Transcriptional regulation by the AP-2 (TFAP2) family of transcription factors	0.0703978274420584	FALSE
+Presynaptic phase of homologous DNA pairing and strand exchange	0.07047180732138814	TRUE
+Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)	0.0707099523495057	FALSE
+Nitric oxide stimulates guanylate cyclase	0.0707099523495057	FALSE
+Transcriptional activation of mitochondrial biogenesis	0.0707099523495057	FALSE
+Activation of ATR in response to replication stress	0.0707099523495057	FALSE
+Formation of TC-NER Pre-Incision Complex	0.0708262572488009	FALSE
+Downstream signaling of activated FGFR2	0.07100842504217762	FALSE
+Trafficking of GluR2-containing AMPA receptors	0.07100842504217762	FALSE
+SHC-related events triggered by IGF1R	0.07124146221902607	FALSE
+Homology Directed Repair	0.07124146221902607	FALSE
+Activation of the AP-1 family of transcription factors	0.07225614357018564	FALSE
+Viral mRNA Translation	0.07467179572467122	FALSE
+Interleukin-23 signaling	0.07474353775923454	FALSE
+PTK6 Activates STAT3	0.07474353775923454	FALSE
+Depolymerization of the Nuclear Lamina	0.07474353775923454	TRUE
+Eukaryotic Translation Termination	0.07608839114908253	FALSE
+APC/C:Cdc20 mediated degradation of Cyclin B	0.07679746748855801	TRUE
+Inhibition of replication initiation of damaged DNA by RB1/E2F1	0.07679746748855801	FALSE
+DNA Replication Pre-Initiation	0.07679746748855801	FALSE
+Activation of NIMA Kinases NEK9, NEK6, NEK7	0.07679746748855801	TRUE
+HIV Life Cycle	0.07685288696039287	FALSE
+G2/M DNA replication checkpoint	0.07712834920573884	FALSE
+Golgi Cisternae Pericentriolar Stack Reorganization	0.07731919576379707	TRUE
+Eukaryotic Translation Elongation	0.07834720465317437	TRUE
+Regulation of APC/C activators between G1/S and early anaphase	0.07836566724127683	TRUE
+Transcriptional regulation by RUNX1	0.07850251772486977	FALSE
+Activation of the pre-replicative complex	0.07851029902737042	TRUE
+Peptide chain elongation	0.07851029902737042	TRUE
+Telomere Maintenance	0.07851029902737042	FALSE
+GABA synthesis, release, reuptake and degradation	0.07940653557293813	FALSE
+Arachidonic acid metabolism	0.08029246515289988	FALSE
+Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks	0.08034435244076624	FALSE
+Processing of DNA double-strand break ends	0.08037313940346827	FALSE
+Translesion synthesis by Y family DNA polymerases bypasses lesions on DNA template	0.08078929402040363	FALSE
+TFAP2A acts as a transcriptional repressor during retinoic acid induced cell differentiation	0.08093893720192838	FALSE
+RNA Polymerase III Transcription Initiation From Type 2 Promoter	0.08146016492744337	FALSE
+Sensory perception of salty taste	0.08224231646723625	FALSE
+Maturation of spike protein	0.08224231646723625	FALSE
+Signaling by FGFR1 in disease	0.08224231646723625	FALSE
+HDR through Homologous Recombination (HRR)	0.08230629215750904	FALSE
+RAF-independent MAPK1/3 activation	0.08230629215750904	FALSE
+Impaired BRCA2 binding to RAD51	0.08331634345040922	FALSE
+Switching of origins to a post-replicative state	0.08357257249544553	FALSE
+Mitochondrial biogenesis	0.084564076711352	FALSE
+TP53 Regulates Transcription of Cell Cycle Genes	0.08583496871430173	FALSE
+Gap-filling DNA repair synthesis and ligation in TC-NER	0.08583496871430173	FALSE
+Regulation of RUNX1 Expression and Activity	0.08583496871430173	FALSE
+Diseases of DNA repair	0.08583496871430173	FALSE
+Diseases of DNA Double-Strand Break Repair	0.08583496871430173	FALSE
+Defective homologous recombination repair (HRR) due to BRCA2 loss of function	0.08583496871430173	FALSE
+Late Phase of HIV Life Cycle	0.08583496871430173	FALSE
+Post-transcriptional silencing by small RNAs	0.08587427559299317	FALSE
+Downstream signaling of activated FGFR3	0.08590432198572438	FALSE
+Downstream signaling of activated FGFR4	0.08590432198572438	FALSE
+Synthesis of diphthamide-EEF2	0.08776587206687973	FALSE
+APC-Cdc20 mediated degradation of Nek2A	0.08776587206687973	TRUE
+HDR through Single Strand Annealing (SSA)	0.08776587206687973	FALSE
+SARS-CoV-2 activates/modulates innate and adaptive immune responses	0.08776587206687973	FALSE
+Selenoamino acid metabolism	0.08776587206687973	FALSE
+HIV Infection	0.08790660615201035	FALSE
+Metabolism of proteins	0.08883773660951723	FALSE
+DNA strand elongation	0.08883773660951723	FALSE
+Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins	0.08883773660951723	FALSE
+NoRC negatively regulates rRNA expression	0.0889643499553584	FALSE
+Formation of Senescence-Associated Heterochromatin Foci (SAHF)	0.09046808978793211	FALSE
+Pre-NOTCH Expression and Processing	0.09064177668831142	FALSE
+Response of EIF2AK4 (GCN2) to amino acid deficiency	0.09064177668831142	TRUE
+ESR-mediated signaling	0.09064177668831142	FALSE
+Regulation of TLR by endogenous ligand	0.09064177668831142	FALSE
+SUMOylation of nuclear envelope proteins	0.09065776232130338	FALSE
+Formation of a pool of free 40S subunits	0.09161701241141637	FALSE
+SUMO is proteolytically processed	0.09394423003556554	FALSE
+Calcitonin-like ligand receptors	0.09413711853783543	FALSE
+Regulation of PTEN mRNA translation	0.09504129366326228	TRUE
+GTP hydrolysis and joining of the 60S ribosomal subunit	0.09592064612268103	FALSE
+Cellular responses to stimuli	0.09628420019580389	FALSE
+Generic Transcription Pathway	0.09672347922661131	TRUE
+Cellular responses to stress	0.09768022464777999	FALSE
+Activation of gene expression by SREBF (SREBP)	0.09788384038491058	TRUE
+Formyl peptide receptors bind formyl peptides and many other ligands	0.09810724564339142	FALSE
+Mitotic Prometaphase	0.09895032092233325	TRUE
+Assembly of the pre-replicative complex	0.099970190776022	FALSE
+Resolution of D-Loop Structures	0.10004260310167543	FALSE
+Resolution of D-loop Structures through Holliday Junction Intermediates	0.10004260310167543	FALSE
+Signaling by WNT in cancer	0.10122695663017764	FALSE
+APC/C:Cdc20 mediated degradation of mitotic proteins	0.10354064378062415	FALSE
+L13a-mediated translational silencing of Ceruloplasmin expression	0.10384053590396164	FALSE
+Complement cascade	0.10497029388294025	FALSE
+Host Interactions of HIV factors	0.10497029388294025	FALSE
+Formation of the ternary complex, and subsequently, the 43S complex	0.10519388869597526	FALSE
+Cohesin Loading onto Chromatin	0.10652883892916876	FALSE
+Apoptosis induced DNA fragmentation	0.10701990538291879	TRUE
+Cargo concentration in the ER	0.1072493442218071	FALSE
+CTLA4 inhibitory signaling	0.1072493442218071	FALSE
+PIWI-interacting RNA (piRNA) biogenesis	0.10770418533340316	FALSE
+Dual incision in TC-NER	0.10784682358673227	FALSE
+Defective GALNT3 causes HFTC	0.10784682358673227	FALSE
+Activation of NOXA and translocation to mitochondria	0.1090198623159492	TRUE
+Translation	0.1090198623159492	TRUE
+APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1	0.11064070548582172	FALSE
+RNA Polymerase II Transcription	0.11064070548582172	TRUE
+RAF activation	0.11125476958130712	FALSE
+Nef Mediated CD4 Down-regulation	0.11130864567200124	FALSE
+Deposition of new CENPA-containing nucleosomes at the centromere	0.11130864567200124	FALSE
+Nucleosome assembly	0.11130864567200124	FALSE
+Processing of Capped Intronless Pre-mRNA	0.11158286543253775	FALSE
+Eukaryotic Translation Initiation	0.11276613784717233	FALSE
+Cap-dependent Translation Initiation	0.11276613784717233	FALSE
+Regulation of TP53 Degradation	0.11471178371857411	FALSE
+Regulation of TP53 Expression and Degradation	0.11471178371857411	FALSE
+SEMA3A-Plexin repulsion signaling by inhibiting Integrin adhesion	0.11751512313264544	FALSE
+Purinergic signaling in leishmaniasis infection	0.11751512313264544	FALSE
+Cell recruitment (pro-inflammatory response)	0.11751512313264544	FALSE
+Defective homologous recombination repair (HRR) due to BRCA1 loss of function	0.11751512313264544	FALSE
+Defective homologous recombination repair (HRR) due to PALB2 loss of function	0.11751512313264544	FALSE
+Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA1 binding function	0.11751512313264544	FALSE
+Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA2/RAD51/RAD51C binding function	0.11751512313264544	FALSE
+Impaired BRCA2 binding to PALB2	0.11751512313264544	FALSE
+Sensory perception of taste	0.11772552069279815	FALSE
+SHC-mediated cascade:FGFR2	0.11842882010201004	FALSE
+Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer	0.11913119081154043	FALSE
+Gluconeogenesis	0.12188034418005547	FALSE
+Signaling by FGFR4	0.12188034418005547	FALSE
+TNFs bind their physiological receptors	0.12188034418005547	FALSE
+RUNX3 Regulates Immune Response and Cell Migration	0.12244727822033513	FALSE
+NPAS4 regulates expression of target genes	0.12311052953432126	FALSE
+Disorders of transmembrane transporters	0.12378365190719591	FALSE
+Scavenging by Class A Receptors	0.12497225340059842	FALSE
+SLBP Dependent Processing of Replication-Dependent Histone Pre-mRNAs	0.12501102598013253	FALSE
+WNT5A-dependent internalization of FZD4	0.12625838380777396	FALSE
+Ribosomal scanning and start codon recognition	0.12718949419331146	FALSE
+RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function	0.1280267439446721	FALSE
+TRIF-mediated programmed cell death	0.1280267439446721	FALSE
+Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA	0.1285291523835925	FALSE
+Extension of Telomeres	0.12954700192815422	FALSE
+Translation initiation complex formation	0.12961684236166987	FALSE
+B-WICH complex positively regulates rRNA expression	0.12961684236166987	FALSE
+STAT5 Activation	0.13029853335326405	FALSE
+Heme degradation	0.13029853335326405	FALSE
+Blood group systems biosynthesis	0.13172464981011114	FALSE
+NRIF signals cell death from the nucleus	0.13223984374410186	FALSE
+Disinhibition of SNARE formation	0.13267994508289538	FALSE
+IRAK2 mediated activation of TAK1 complex	0.13267994508289538	FALSE
+Formation of axial mesoderm	0.1328842307697605	FALSE
+TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain	0.1328842307697605	FALSE
+TRAF6 mediated IRF7 activation	0.1328842307697605	TRUE
+Nervous system development	0.1328842307697605	FALSE
+Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S	0.1328842307697605	FALSE
+Interleukin-20 family signaling	0.1337817770469724	FALSE
+Regulation of Complement cascade	0.13739066733369526	FALSE
+Cdc20:Phospho-APC/C mediated degradation of Cyclin A	0.1381501456658017	FALSE
+APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint	0.1381501456658017	FALSE
+p75 NTR receptor-mediated signalling	0.13890106737469904	FALSE
+OAS antiviral response	0.13923089375962813	FALSE
+SUMOylation of DNA methylation proteins	0.13923089375962813	FALSE
+Downregulation of SMAD2/3:SMAD4 transcriptional activity	0.1397068863047071	FALSE
+SLBP independent Processing of Histone Pre-mRNAs	0.1397068863047071	FALSE
+Cell death signalling via NRAGE, NRIF and NADE	0.14044305613868005	FALSE
+Axon guidance	0.14044305613868005	FALSE
+Primitive streak formation	0.14044305613868005	FALSE
+Cellular response to starvation	0.14044305613868005	TRUE
+FGFR2 alternative splicing	0.14117884054510968	FALSE
+RAS signaling downstream of NF1 loss-of-function variants	0.1421710350265753	FALSE
+Sialic acid metabolism	0.14316138129615277	FALSE
+Fertilization	0.14316138129615277	FALSE
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA	0.14316138129615277	FALSE
+Synthesis of Lipoxins (LX)	0.14470507431495022	FALSE
+Cellular response to chemical stress	0.14470507431495022	FALSE
+Creatine metabolism	0.14691885952146588	FALSE
+HuR (ELAVL1) binds and stabilizes mRNA	0.14716162501551297	FALSE
+KSRP (KHSRP) binds and destabilizes mRNA	0.14719805055111862	FALSE
+Termination of O-glycan biosynthesis	0.14736061127110645	FALSE
+Orc1 removal from chromatin	0.14736061127110645	FALSE
+Cytochrome P450 - arranged by substrate type	0.14746670292106878	FALSE
+RORA activates gene expression	0.14746670292106878	FALSE
+Transport of Mature Transcript to Cytoplasm	0.14746670292106878	FALSE
+Formation of ATP by chemiosmotic coupling	0.14881971721522502	FALSE
+Formation of the Early Elongation Complex	0.1496179567551423	FALSE
+Formation of the HIV-1 Early Elongation Complex	0.1496179567551423	FALSE
+Activated NTRK2 signals through FRS2 and FRS3	0.14962386008481063	FALSE
+Signaling by CSF1 (M-CSF) in myeloid cells	0.1497431803460851	FALSE
+PI5P Regulates TP53 Acetylation	0.14990752360948062	FALSE
+Termination of translesion DNA synthesis	0.15020042784724025	FALSE
+Activation of PUMA and translocation to mitochondria	0.15020042784724025	FALSE
+Deadenylation-dependent mRNA decay	0.15020042784724025	FALSE
+Downstream signaling of activated FGFR1	0.15020042784724025	FALSE
+FGFR2 mutant receptor activation	0.15020042784724025	FALSE
+Establishment of Sister Chromatid Cohesion	0.15020042784724025	FALSE
+SHC-mediated cascade:FGFR3	0.15020042784724025	FALSE
+SHC-mediated cascade:FGFR4	0.15020042784724025	FALSE
+Keratinization	0.15101259861417735	FALSE
+RHO GTPase Effectors	0.15101259861417735	FALSE
+Resolution of AP sites via the multiple-nucleotide patch replacement pathway	0.1532459909732802	FALSE
+Transcriptional Regulation by MECP2	0.1534675299011611	FALSE
+IRS-mediated signalling	0.15381450672606914	FALSE
+Signaling by NTRK2 (TRKB)	0.15563293171225023	FALSE
+Transport of Mature mRNA derived from an Intron-Containing Transcript	0.1559052084585514	FALSE
+Signaling by cytosolic FGFR1 fusion mutants	0.15711207024075416	FALSE
+Signaling by FGFR1	0.15970284837746485	FALSE
+Myogenesis	0.15970284837746485	FALSE
+Mitotic G2-G2/M phases	0.16034297544597578	FALSE
+PCNA-Dependent Long Patch Base Excision Repair	0.16094042915044163	FALSE
+Regulated proteolysis of p75NTR	0.16094042915044163	FALSE
+APC/C:Cdc20 mediated degradation of Securin	0.16349145315414496	FALSE
+Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding	0.1639516291406443	FALSE
+Synthesis of IP2, IP, and Ins in the cytosol	0.16421138025751705	FALSE
+MHC class II antigen presentation	0.16498798067096854	TRUE
+Netrin mediated repulsion signals	0.1687244652857948	FALSE
+TP53 Regulates Transcription of DNA Repair Genes	0.1689521099161689	FALSE
+Sema3A PAK dependent Axon repulsion	0.1689521099161689	FALSE
+Common Pathway of Fibrin Clot Formation	0.1689521099161689	FALSE
+Transcription-Coupled Nucleotide Excision Repair (TC-NER)	0.1689521099161689	FALSE
+PRC2 methylates histones and DNA	0.16918364610942274	FALSE
+Metabolism of folate and pterines	0.17002895888444766	FALSE
+Polymerase switching	0.17126475239890415	FALSE
+Leading Strand Synthesis	0.17126475239890415	FALSE
+mRNA decay by 5' to 3' exoribonuclease	0.17608385473996038	FALSE
+Activation of anterior HOX genes in hindbrain development during early embryogenesis	0.17674812528568765	FALSE
+Activation of HOX genes during differentiation	0.17674812528568765	FALSE
+Prolonged ERK activation events	0.17718696066313083	TRUE
+Post-translational protein modification	0.17718696066313083	FALSE
+Mitochondrial calcium ion transport	0.1810639105538055	FALSE
+cGMP effects	0.18174801832910156	FALSE
+Defective CHST3 causes SEDCJD	0.18573370224091457	FALSE
+UCH proteinases	0.18617004349635555	TRUE
+G2/M Transition	0.18733174829853147	FALSE
+Signaling by FGFR2 IIIa TM	0.1874768606987893	FALSE
+Activation of RAC1 downstream of NMDARs	0.18820887019276145	FALSE
+Regulation of HSF1-mediated heat shock response	0.18857294184864415	FALSE
+Signaling by FGFR4 in disease	0.18961533746826134	FALSE
+Defective pyroptosis	0.18980386696436435	FALSE
+CDK-mediated phosphorylation and removal of Cdc6	0.19078664670684067	FALSE
+Post NMDA receptor activation events	0.19078664670684067	FALSE
+Nucleotide biosynthesis	0.19078664670684067	FALSE
+FRS-mediated FGFR1 signaling	0.19078664670684067	FALSE
+Costimulation by the CD28 family	0.19078664670684067	FALSE
+Josephin domain DUBs	0.191295306615731	FALSE
+Nef Mediated CD8 Down-regulation	0.1915990520016667	FALSE
+CS/DS degradation	0.19189917007820834	FALSE
+Mitochondrial translation elongation	0.19259310647087907	FALSE
+WNT5A-dependent internalization of FZD2, FZD5 and ROR2	0.19259310647087907	FALSE
+The role of GTSE1 in G2/M progression after G2 checkpoint	0.19259310647087907	TRUE
+RNA Polymerase I Promoter Clearance	0.19259310647087907	FALSE
+RNA Polymerase I Transcription	0.19259310647087907	FALSE
+Biosynthesis of EPA-derived SPMs	0.19259310647087907	FALSE
+Biosynthesis of E-series 18(S)-resolvins	0.19259310647087907	FALSE
+Processing of SMDT1	0.19372832460673545	FALSE
+RHOD GTPase cycle	0.19372832460673545	FALSE
+Triglyceride metabolism	0.19445146106105457	FALSE
+DNA Damage Recognition in GG-NER	0.19445146106105457	FALSE
+Activation of NMDA receptors and postsynaptic events	0.19445146106105457	FALSE
+Carnitine metabolism	0.19469740932417726	FALSE
+Regulation of MECP2 expression and activity	0.19493885625128612	FALSE
+Lewis blood group biosynthesis	0.19641347937244805	FALSE
+MET activates RAS signaling	0.19721187815007798	FALSE
+Signaling by ERBB2 TMD/JMD mutants	0.19729024969960915	FALSE
+Acyl chain remodeling of CL	0.1977019508626701	FALSE
+Antigen processing: Ubiquitination & Proteasome degradation	0.19841125981893118	FALSE
+RNA Polymerase III Transcription Initiation	0.19952838883563506	FALSE
+Nonhomologous End-Joining (NHEJ)	0.19952838883563506	FALSE
+G2 Phase	0.19952838883563506	FALSE
+FOXO-mediated transcription of cell death genes	0.2000567105653915	FALSE
+LXRs regulate gene expression linked to cholesterol transport and efflux	0.20014344220119298	FALSE
+O-linked glycosylation of mucins	0.20096667727317846	FALSE
+Chylomicron assembly	0.20179459113134002	FALSE
+POLB-Dependent Long Patch Base Excision Repair	0.203870640597816	FALSE
+Autodegradation of Cdh1 by Cdh1:APC/C	0.2042052873339917	FALSE
+Formation of RNA Pol II elongation complex	0.2042052873339917	FALSE
+RNA Polymerase II Transcription Elongation	0.2042052873339917	FALSE
+Cytosolic sulfonation of small molecules	0.2042052873339917	FALSE
+MAPK6/MAPK4 signaling	0.20437964727989635	FALSE
+Regulation of cholesterol biosynthesis by SREBP (SREBF)	0.20464944644626915	FALSE
+Negative feedback regulation of MAPK pathway	0.20478816230026034	FALSE
+RUNX1 regulates transcription of genes involved in differentiation of keratinocytes	0.20743416050257435	FALSE
+Intrinsic Pathway of Fibrin Clot Formation	0.20743416050257435	FALSE
+Activation of rRNA Expression by ERCC6 (CSB) and EHMT2 (G9a)	0.20832573054267764	FALSE
+Collagen degradation	0.2093124185350734	FALSE
+Mitochondrial translation termination	0.21000203328162112	FALSE
+Activated NTRK2 signals through CDK5	0.21341730138594484	FALSE
+Prolactin receptor signaling	0.2137370942823018	FALSE
+Cytosolic sensors of pathogen-associated DNA	0.21539295695511596	FALSE
+Insulin receptor signalling cascade	0.21539295695511596	FALSE
+DNA replication initiation	0.21625302957217193	FALSE
+Transcriptional regulation by RUNX2	0.21625302957217193	FALSE
+Phase II - Conjugation of compounds	0.21695919687242587	FALSE
+RAC3 GTPase cycle	0.21791445810086005	FALSE
+Mitochondrial translation initiation	0.21791445810086005	FALSE
+Developmental Biology	0.21817048561878022	FALSE
+Signaling by NTRK3 (TRKC)	0.2186163925559651	FALSE
+Ethanol oxidation	0.21985779677470313	FALSE
+Mitochondrial translation	0.22155240567228707	FALSE
+Signaling by FGFR3	0.2254164482860078	FALSE
+Inhibition of DNA recombination at telomere	0.2254164482860078	FALSE
+Mitochondrial protein import	0.2258161659240538	FALSE
+Lagging Strand Synthesis	0.2262404418474459	FALSE
+Synthesis of epoxy (EET) and dihydroxyeicosatrienoic acids (DHET)	0.2262404418474459	FALSE
+Uptake of dietary cobalamins into enterocytes	0.22656623994295555	FALSE
+Global Genome Nucleotide Excision Repair (GG-NER)	0.22909774191375934	FALSE
+2-LTR circle formation	0.23150524099352568	FALSE
+ALPK1 signaling pathway	0.23460903365262398	FALSE
+DNA methylation	0.23460903365262398	FALSE
+HIV Transcription Elongation	0.23460903365262398	FALSE
+Formation of HIV-1 elongation complex containing HIV-1 Tat	0.23460903365262398	FALSE
+Tat-mediated elongation of the HIV-1 transcript	0.23460903365262398	FALSE
+PTK6 promotes HIF1A stabilization	0.23493750719383696	FALSE
+Synthesis of bile acids and bile salts via 24-hydroxycholesterol	0.23575794771206074	FALSE
+Regulation of PTEN gene transcription	0.2364107002987907	FALSE
+Activated NTRK3 signals through RAS	0.23681585363392751	FALSE
+TYSND1 cleaves peroxisomal proteins	0.23846990133221777	FALSE
+Signaling by NOTCH	0.24419782397649004	FALSE
+Telomere C-strand (Lagging Strand) Synthesis	0.2471471791092499	FALSE
+Association of TriC/CCT with target proteins during biosynthesis	0.2471471791092499	FALSE
+CaMK IV-mediated phosphorylation of CREB	0.2471471791092499	FALSE
+Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	0.24753222408785178	FALSE
+Bile acid and bile salt metabolism	0.25110258404384134	FALSE
+Negative regulators of RIG-I/MDA5 signaling	0.25110258404384134	FALSE
+Linoleic acid (LA) metabolism	0.25110258404384134	FALSE
+Activation of BH3-only proteins	0.25110258404384134	FALSE
+Transcriptional regulation of testis differentiation	0.2511587905976599	FALSE
+RNA Polymerase I Transcription Initiation	0.2523906475587938	FALSE
+Integration of provirus	0.2523906475587938	FALSE
+Interleukin-7 signaling	0.2526165033749597	FALSE
+RNA Polymerase II Transcription Termination	0.2526165033749597	FALSE
+Miscellaneous transport and binding events	0.2526165033749597	FALSE
+Removal of aminoterminal propeptides from gamma-carboxylated proteins	0.2531749295149547	FALSE
+Formation of xylulose-5-phosphate	0.2531749295149547	FALSE
+Cellular response to heat stress	0.25699320967048456	FALSE
+SCF-beta-TrCP mediated degradation of Emi1	0.25968115693359295	FALSE
+Surfactant metabolism	0.26106330093116303	FALSE
+Signaling by FGFR3 in disease	0.2621321412448644	FALSE
+mRNA Editing: C to U Conversion	0.2621321412448644	FALSE
+mRNA Editing	0.2621321412448644	FALSE
+Formation of the Editosome	0.2621321412448644	FALSE
+Formation of HIV elongation complex in the absence of HIV Tat	0.2621321412448644	FALSE
+SHC1 events in ERBB4 signaling	0.2621321412448644	FALSE
+STING mediated induction of host immune responses	0.2621321412448644	FALSE
+PTEN Regulation	0.2625390134286073	FALSE
+Biosynthesis of DHA-derived SPMs	0.2625390134286073	FALSE
+Respiratory electron transport	0.26440792847216016	FALSE
+Retrograde neurotrophin signalling	0.26514036265769675	FALSE
+Frs2-mediated activation	0.2660411890042039	TRUE
+Early Phase of HIV Life Cycle	0.2660411890042039	FALSE
+Signaling by PDGFR in disease	0.2660411890042039	FALSE
+Signaling by PDGFRA transmembrane, juxtamembrane and kinase domain mutants	0.2660411890042039	FALSE
+Signaling by PDGFRA extracellular domain mutants	0.2660411890042039	FALSE
+Metabolism of Angiotensinogen to Angiotensins	0.26751569524541	FALSE
+Downstream signal transduction	0.2679249366185773	FALSE
+Recognition of DNA damage by PCNA-containing replication complex	0.2706025273629251	FALSE
+FCGR3A-mediated IL10 synthesis	0.2708657427261119	FALSE
+Synthesis of Ketone Bodies	0.2708657427261119	FALSE
+Diseases of signal transduction by growth factor receptors and second messengers	0.27453833010696704	FALSE
+MET Receptor Activation	0.2749269817361011	FALSE
+Regulation of RUNX2 expression and activity	0.275237973917183	FALSE
+VLDL assembly	0.27525003090083355	FALSE
+Signaling by Nuclear Receptors	0.27525003090083355	FALSE
+Interaction between L1 and Ankyrins	0.27677296654021816	FALSE
+RND2 GTPase cycle	0.27750754253349974	FALSE
+Beta-oxidation of very long chain fatty acids	0.27750754253349974	FALSE
+Glycoprotein hormones	0.27805646506164255	FALSE
+Peptide hormone biosynthesis	0.27805646506164255	FALSE
+PKMTs methylate histone lysines	0.2781901392990998	FALSE
+Metabolism of ingested SeMet, Sec, MeSec into H2Se	0.27919078760564814	FALSE
+Amino acid and derivative metabolism	0.27928938645238083	FALSE
+CDC6 association with the ORC:origin complex	0.27928938645238083	FALSE
+Trafficking of AMPA receptors	0.27928938645238083	FALSE
+Glutamate binding, activation of AMPA receptors and synaptic plasticity	0.27928938645238083	FALSE
+Constitutive Signaling by EGFRvIII	0.2802565792583068	FALSE
+Signaling by EGFRvIII in Cancer	0.2802565792583068	FALSE
+Glucocorticoid biosynthesis	0.28443053858781286	FALSE
+Synthesis of PA	0.2894268823918346	FALSE
+Transport and synthesis of PAPS	0.2894268823918346	FALSE
+Regulation of mRNA stability by proteins that bind AU-rich elements	0.2894268823918346	FALSE
+FCGR activation	0.2947950656358409	FALSE
+Diseases of glycosylation	0.29525871191606645	FALSE
+Binding of TCF/LEF:CTNNB1 to target gene promoters	0.29535526277827884	FALSE
+Spry regulation of FGF signaling	0.29535526277827884	FALSE
+Potential therapeutics for SARS	0.2960051853282719	FALSE
+Signaling by RNF43 mutants	0.2980066231837137	FALSE
+Signaling by WNT	0.29927002725383695	FALSE
+O-linked glycosylation	0.29927002725383695	FALSE
+PTK6 Expression	0.29969606528481607	FALSE
+PLCG1 events in ERBB2 signaling	0.3008118672096626	FALSE
+Removal of the Flap Intermediate	0.3008118672096626	FALSE
+Processive synthesis on the lagging strand	0.3008118672096626	FALSE
+Senescence-Associated Secretory Phenotype (SASP)	0.3008118672096626	FALSE
+Cyclin A:Cdk2-associated events at S phase entry	0.3013207588415012	FALSE
+Alternative complement activation	0.3014450100583033	FALSE
+Late endosomal microautophagy	0.3014450100583033	FALSE
+Thrombin signalling through proteinase activated receptors (PARs)	0.3014450100583033	FALSE
+Metabolism of steroids	0.3014450100583033	FALSE
+Negative regulation of NOTCH4 signaling	0.3014450100583033	FALSE
+Neddylation	0.3014450100583033	FALSE
+Death Receptor Signaling	0.3014450100583033	TRUE
+Cytosolic iron-sulfur cluster assembly	0.3014450100583033	FALSE
+Activation of RAC1	0.3014450100583033	FALSE
+Polymerase switching on the C-strand of the telomere	0.3014450100583033	FALSE
+LXR-mediated signaling	0.30457136287535774	FALSE
+Negative regulation of FGFR3 signaling	0.30457136287535774	FALSE
+Negative regulation of FGFR4 signaling	0.30457136287535774	FALSE
+Negative regulation of FGFR2 signaling	0.30746254680642654	FALSE
+Negative regulation of activity of TFAP2 (AP-2) family transcription factors	0.30746254680642654	FALSE
+Metabolism of polyamines	0.3102330594872865	FALSE
+Regulation of ornithine decarboxylase (ODC)	0.3102330594872865	FALSE
+RNA Polymerase II Pre-transcription Events	0.3102330594872865	FALSE
+Synthesis of glycosylphosphatidylinositol (GPI)	0.3129922891323598	FALSE
+Signaling by Retinoic Acid	0.3129922891323598	TRUE
+KEAP1-NFE2L2 pathway	0.3129995436545748	FALSE
+Beta-catenin independent WNT signaling	0.31484157467021856	FALSE
+Signaling by PDGF	0.31484157467021856	FALSE
+Signaling by NTRK1 (TRKA)	0.31484157467021856	FALSE
+Synthesis of bile acids and bile salts	0.31484157467021856	FALSE
+Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol	0.31484157467021856	FALSE
+Interaction With Cumulus Cells And The Zona Pellucida	0.31484157467021856	FALSE
+TCF dependent signaling in response to WNT	0.31484157467021856	FALSE
+Intracellular signaling by second messengers	0.31484157467021856	FALSE
+Sodium/Proton exchangers	0.31484157467021856	FALSE
+Asymmetric localization of PCP proteins	0.3151387329792335	FALSE
+RHOBTB1 GTPase cycle	0.3151387329792335	FALSE
+IRF3-mediated induction of type I IFN	0.31586116392810776	FALSE
+Degradation of beta-catenin by the destruction complex	0.3173097156392829	FALSE
+Activation of C3 and C5	0.3176921795252603	FALSE
+Transcription of the HIV genome	0.3176921795252603	FALSE
+GRB2 events in ERBB2 signaling	0.3176921795252603	FALSE
+PTK6 Regulates RTKs and Their Effectors AKT1 and DOK1	0.3183664835874944	FALSE
+RNA Pol II CTD phosphorylation and interaction with CE during HIV infection	0.3183664835874944	FALSE
+RNA Pol II CTD phosphorylation and interaction with CE	0.3183664835874944	FALSE
+Signaling by KIT in disease	0.32018529194839424	FALSE
+Signaling by phosphorylated juxtamembrane, extracellular and kinase domain KIT mutants	0.32018529194839424	FALSE
+Inflammasomes	0.32018529194839424	FALSE
+Disassembly of the destruction complex and recruitment of AXIN to the membrane	0.32018529194839424	FALSE
+RHOH GTPase cycle	0.32018529194839424	FALSE
+Initial triggering of complement	0.32018529194839424	FALSE
+SCF(Skp2)-mediated degradation of p27/p21	0.32018529194839424	FALSE
+PI3K/AKT Signaling	0.32018529194839424	FALSE
+Gastrulation	0.32172171779477904	FALSE
+Signaling by Rho GTPases	0.32172171779477904	FALSE
+MAPK3 (ERK1) activation	0.32360648641597256	FALSE
+Chondroitin sulfate/dermatan sulfate metabolism	0.3237854201916384	FALSE
+HDACs deacetylate histones	0.3237854201916384	FALSE
+mRNA decay by 3' to 5' exoribonuclease	0.32392536430598445	FALSE
+Mitochondrial iron-sulfur cluster biogenesis	0.32404885334007744	FALSE
+Extrinsic Pathway of Fibrin Clot Formation	0.32404885334007744	FALSE
+Retrograde transport at the Trans-Golgi-Network	0.32439148324866945	FALSE
+Regulation of pyruvate dehydrogenase (PDH) complex	0.32444527588248895	TRUE
+Azathioprine ADME	0.32450253501789494	FALSE
+YAP1- and WWTR1 (TAZ)-stimulated gene expression	0.3254807669520086	FALSE
+Cellular response to hypoxia	0.325614159678247	FALSE
+Lysosome Vesicle Biogenesis	0.325614159678247	FALSE
+Axonal growth inhibition (RHOA activation)	0.325614159678247	FALSE
+p75NTR regulates axonogenesis	0.325614159678247	FALSE
+FBXL7 down-regulates AURKA during mitotic entry and in early mitosis	0.32586258875020174	FALSE
+Role of second messengers in netrin-1 signaling	0.327185301630765	FALSE
+Chaperonin-mediated protein folding	0.32855175560837074	FALSE
+Dectin-1 mediated noncanonical NF-kB signaling	0.3286614865220951	FALSE
+Interleukin-1 processing	0.33247959167618046	FALSE
+PI3K Cascade	0.3329670274332509	FALSE
+CRMPs in Sema3A signaling	0.3329670274332509	FALSE
+Hydrolysis of LPC	0.3329670274332509	FALSE
+Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha	0.3345817228938472	FALSE
+FCERI mediated NF-kB activation	0.33522829659960707	FALSE
+Signaling by ERBB2 ECD mutants	0.33523678093861253	FALSE
+Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways	0.33523678093861253	FALSE
+Signaling by CTNNB1 phospho-site mutants	0.33609407584621764	FALSE
+Signaling by GSK3beta mutants	0.33609407584621764	FALSE
+CTNNB1 S33 mutants aren't phosphorylated	0.33609407584621764	FALSE
+CTNNB1 S37 mutants aren't phosphorylated	0.33609407584621764	FALSE
+CTNNB1 S45 mutants aren't phosphorylated	0.33609407584621764	FALSE
+CTNNB1 T41 mutants aren't phosphorylated	0.33609407584621764	FALSE
+NRAGE signals death through JNK	0.33708165949630936	FALSE
+Signaling by Rho GTPases, Miro GTPases and RHOBTB3	0.33708165949630936	FALSE
+Ketone body metabolism	0.33708165949630936	FALSE
+Cyclin E associated events during G1/S transition	0.33708165949630936	FALSE
+The NLRP3 inflammasome	0.33708165949630936	FALSE
+Telomere Extension By Telomerase	0.33708165949630936	FALSE
+Signaling by CSF3 (G-CSF)	0.33708165949630936	FALSE
+Regulation of RAS by GAPs	0.33708165949630936	FALSE
+Diseases associated with O-glycosylation of proteins	0.33708165949630936	FALSE
+Ubiquitin Mediated Degradation of Phosphorylated Cdc25A	0.33708165949630936	FALSE
+p53-Independent DNA Damage Response	0.33708165949630936	FALSE
+p53-Independent G1/S DNA damage checkpoint	0.33708165949630936	FALSE
+COPII-mediated vesicle transport	0.33746304019760925	FALSE
+Serine biosynthesis	0.33997066654119296	FALSE
+Activated NTRK2 signals through RAS	0.34036772056405606	FALSE
+Platelet sensitization by LDL	0.3422829346945976	FALSE
+CREB3 factors activate genes	0.3422829346945976	FALSE
+Regulation of NF-kappa B signaling	0.3422829346945976	FALSE
+Synthesis of 5-eicosatetraenoic acids	0.3422829346945976	FALSE
+Acyl chain remodelling of PE	0.34240132425797415	FALSE
+Resolution of Abasic Sites (AP sites)	0.34240132425797415	FALSE
+Signaling by NOTCH4	0.3429886242886032	FALSE
+Hedgehog 'on' state	0.3429886242886032	FALSE
+Tie2 Signaling	0.3429886242886032	FALSE
+The role of Nef in HIV-1 replication and disease pathogenesis	0.3429886242886032	FALSE
+NIK-->noncanonical NF-kB signaling	0.3429886242886032	FALSE
+DNA Damage/Telomere Stress Induced Senescence	0.3459817968201756	FALSE
+Signaling by TGF-beta Receptor Complex	0.3477246859280101	FALSE
+Activation of BAD and translocation to mitochondria	0.3477246859280101	FALSE
+PCP/CE pathway	0.34823852579322817	FALSE
+RHO GTPases Activate NADPH Oxidases	0.3487339298057089	FALSE
+Protein folding	0.3488174126512726	FALSE
+Degradation of AXIN	0.34938282141152094	FALSE
+Regulation of IFNA/IFNB signaling	0.3497087610402977	FALSE
+Cross-presentation of soluble exogenous antigens (endosomes)	0.3504189356183668	FALSE
+Activation of NF-kappaB in B cells	0.3512198239009277	FALSE
+Defective B3GALT6 causes EDSP2 and SEMDJL1	0.3512198239009277	FALSE
+C-type lectin receptors (CLRs)	0.3516784494284842	FALSE
+GSK3B and BTRC:CUL1-mediated-degradation of NFE2L2	0.3516784494284842	FALSE
+Hedgehog ligand biogenesis	0.3525678447946294	FALSE
+Neurotransmitter receptors and postsynaptic signal transmission	0.3525678447946294	FALSE
+G1/S DNA Damage Checkpoints	0.3530527987289564	FALSE
+Constitutive Signaling by AKT1 E17K in Cancer	0.3535198437927047	FALSE
+Ca-dependent events	0.3542578572482898	FALSE
+Signaling by ERBB2 KD Mutants	0.3565775948485501	FALSE
+Miro GTPase Cycle	0.3583443456520774	FALSE
+RHO GTPases Activate Rhotekin and Rhophilins	0.3583443456520774	FALSE
+Autodegradation of the E3 ubiquitin ligase COP1	0.35943879742335394	FALSE
+Signaling by ERBB4	0.36181213100742315	FALSE
+MET activates RAP1 and RAC1	0.36222421782938324	FALSE
+SOS-mediated signalling	0.36280539374804266	FALSE
+RUNX2 regulates bone development	0.3628952722669662	FALSE
+IKK complex recruitment mediated by RIP1	0.3628952722669662	FALSE
+LXRs regulate gene expression to limit cholesterol uptake	0.3628952722669662	FALSE
+Hh mutants are degraded by ERAD	0.3628952722669662	FALSE
+Hh mutants abrogate ligand secretion	0.3628952722669662	FALSE
+Dectin-2 family	0.3628952722669662	FALSE
+Regulation of activated PAK-2p34 by proteasome mediated degradation	0.3639827392783929	FALSE
+Interleukin-1 signaling	0.3639827392783929	FALSE
+Peroxisomal protein import	0.3651964826061882	FALSE
+Biosynthesis of specialized proresolving mediators (SPMs)	0.36744073054321563	FALSE
+Ubiquitin-dependent degradation of Cyclin D	0.3684368106931864	FALSE
+InlA-mediated entry of Listeria monocytogenes into host cells	0.3695505575924293	FALSE
+Nuclear events mediated by NFE2L2	0.3701932157870798	FALSE
+Wax and plasmalogen biosynthesis	0.3701932157870798	FALSE
+Signalling to ERKs	0.37034613627734847	FALSE
+Attachment and Entry	0.3721067798657338	FALSE
+Signal transduction by L1	0.37214675130512254	FALSE
+Cristae formation	0.37214675130512254	FALSE
+RNA Polymerase I Promoter Escape	0.37406174650660207	FALSE
+The citric acid (TCA) cycle and respiratory electron transport	0.3747473919077973	FALSE
+Ribavirin ADME	0.3770728145886591	FALSE
+Chaperone Mediated Autophagy	0.3770728145886591	FALSE
+Ovarian tumor domain proteases	0.37719113489686945	FALSE
+Vpu mediated degradation of CD4	0.3772381284394096	FALSE
+Interleukin-3, Interleukin-5 and GM-CSF signaling	0.3772381284394096	FALSE
+SHC-mediated cascade:FGFR1	0.3772381284394096	FALSE
+SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription	0.3772381284394096	FALSE
+Signaling by ERBB2 in Cancer	0.3772381284394096	FALSE
+Degradation of GLI1 by the proteasome	0.3772381284394096	FALSE
+Degradation of GLI2 by the proteasome	0.37746701129897886	FALSE
+GLI3 is processed to GLI3R by the proteasome	0.37746701129897886	FALSE
+RUNX1 regulates transcription of genes involved in differentiation of HSCs	0.37930485307329775	FALSE
+Constitutive Signaling by Overexpressed ERBB2	0.37930485307329775	FALSE
+APOBEC3G mediated resistance to HIV-1 infection	0.37930485307329775	FALSE
+WNT mediated activation of DVL	0.38029194214738665	FALSE
+LGI-ADAM interactions	0.38029194214738665	FALSE
+Methylation	0.3807850292288479	FALSE
+LXRs regulate gene expression linked to gluconeogenesis	0.3807850292288479	FALSE
+Alpha-oxidation of phytanate	0.380884342660135	FALSE
+NOD1/2 Signaling Pathway	0.3809935348003306	FALSE
+Regulation of commissural axon pathfinding by SLIT and ROBO	0.38348067761737836	FALSE
+Ligand-dependent caspase activation	0.38348067761737836	FALSE
+Peroxisomal lipid metabolism	0.38348067761737836	FALSE
+Class I MHC mediated antigen processing & presentation	0.38348067761737836	FALSE
+ABC-family proteins mediated transport	0.38348067761737836	FALSE
+Cyclin D associated events in G1	0.3853299225540933	FALSE
+G1 Phase	0.3853299225540933	FALSE
+Inwardly rectifying K+ channels	0.38702015513948473	FALSE
+Vif-mediated degradation of APOBEC3G	0.3870725374431607	FALSE
+Signaling by TGFB family members	0.3870725374431607	FALSE
+SUMOylation of immune response proteins	0.38778976088477257	FALSE
+Interferon alpha/beta signaling	0.3879014953363213	FALSE
+MET activates STAT3	0.3945964231810771	FALSE
+Beta defensins	0.394964128428946	FALSE
+Ion transport by P-type ATPases	0.394964128428946	FALSE
+Amino acids regulate mTORC1	0.39603722579233036	TRUE
+Downregulation of ERBB4 signaling	0.39603722579233036	FALSE
+CD28 co-stimulation	0.39603722579233036	FALSE
+Downstream signaling events of B Cell Receptor (BCR)	0.39603722579233036	FALSE
+p53-Dependent G1 DNA Damage Response	0.39603722579233036	FALSE
+p53-Dependent G1/S DNA damage checkpoint	0.39603722579233036	FALSE
+Regulation of Apoptosis	0.39603722579233036	FALSE
+Diseases of programmed cell death	0.39603722579233036	FALSE
+Regulation of TP53 Activity through Methylation	0.39603722579233036	FALSE
+Acyl chain remodelling of PC	0.39603722579233036	FALSE
+Dual Incision in GG-NER	0.39603722579233036	FALSE
+Plasma lipoprotein remodeling	0.39603722579233036	FALSE
+Defective GALNT12 causes CRCS1	0.39603722579233036	FALSE
+Apoptotic execution phase	0.39603722579233036	FALSE
+IRS activation	0.39603722579233036	FALSE
+SMAC (DIABLO) binds to IAPs	0.39603722579233036	FALSE
+SMAC(DIABLO)-mediated dissociation of IAP:caspase complexes	0.39603722579233036	FALSE
+SMAC, XIAP-regulated apoptotic response	0.39603722579233036	FALSE
+Transcriptional regulation by RUNX3	0.39603722579233036	FALSE
+Degradation of DVL	0.39603722579233036	FALSE
+Folding of actin by CCT/TriC	0.39603722579233036	FALSE
+HIV Transcription Initiation	0.39603722579233036	FALSE
+RNA Polymerase II HIV Promoter Escape	0.39603722579233036	FALSE
+RNA Polymerase II Promoter Escape	0.39603722579233036	FALSE
+RNA Polymerase II Transcription Pre-Initiation And Promoter Opening	0.39603722579233036	FALSE
+RNA Polymerase II Transcription Initiation	0.39603722579233036	FALSE
+RNA Polymerase II Transcription Initiation And Promoter Clearance	0.39603722579233036	FALSE
+Stabilization of p53	0.39684239795329335	FALSE
+Response to elevated platelet cytosolic Ca2+	0.39684239795329335	FALSE
+Processive synthesis on the C-strand of the telomere	0.39684239795329335	FALSE
+Trafficking and processing of endosomal TLR	0.3988397117671528	FALSE
+RHO GTPases activate CIT	0.3988397117671528	FALSE
+Chylomicron remodeling	0.3988397117671528	FALSE
+RNA Polymerase III Transcription	0.39918143653757276	FALSE
+RNA Polymerase III Abortive And Retractive Initiation	0.39918143653757276	FALSE
+Lipophagy	0.40038114196910024	FALSE
+Interconversion of nucleotide di- and triphosphates	0.40038114196910024	FALSE
+Regulation of RUNX3 expression and activity	0.40038114196910024	FALSE
+Synthesis of bile acids and bile salts via 27-hydroxycholesterol	0.4011946015236067	FALSE
+Complex I biogenesis	0.40241717051144243	FALSE
+Binding and Uptake of Ligands by Scavenger Receptors	0.40428314644295965	FALSE
+Regulation of necroptotic cell death	0.4075306695635167	FALSE
+CLEC7A (Dectin-1) signaling	0.40892812725550937	FALSE
+FOXO-mediated transcription	0.4095503385265993	FALSE
+FGFR1 mutant receptor activation	0.4103220270429367	FALSE
+Caspase activation via extrinsic apoptotic signalling pathway	0.4103727201031798	FALSE
+ChREBP activates metabolic gene expression	0.4130942428215471	FALSE
+Processing of Intronless Pre-mRNAs	0.41574185550357967	FALSE
+Diseases of metabolism	0.41839078829280235	FALSE
+Purine ribonucleoside monophosphate biosynthesis	0.4185536313826522	FALSE
+Synthesis, secretion, and inactivation of Glucose-dependent Insulinotropic Polypeptide (GIP)	0.4190478072106733	FALSE
+MET activates PTPN11	0.4193718615721562	FALSE
+RHOG GTPase cycle	0.4206267777115212	FALSE
+Cation-coupled Chloride cotransporters	0.42147387905105227	FALSE
+Drug ADME	0.4215266986884464	FALSE
+EGFR Transactivation by Gastrin	0.4218570173739414	FALSE
+DAG and IP3 signaling	0.4218570173739414	FALSE
+NF-kB activation through FADD/RIP-1 pathway mediated by caspase-8 and -10	0.4218570173739414	FALSE
+NF-kB is activated and signals survival	0.4218570173739414	FALSE
+Synthesis of PE	0.422053183036842	FALSE
+Signaling by ALK	0.42214294930479057	FALSE
+Signaling by Hedgehog	0.42214294930479057	FALSE
+Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell	0.42333266608738473	FALSE
+Role of LAT2/NTAL/LAB on calcium mobilization	0.42337885678364234	FALSE
+RNA Polymerase III Chain Elongation	0.42337885678364234	FALSE
+Activation of Matrix Metalloproteinases	0.42337885678364234	FALSE
+Defective B4GALT7 causes EDS, progeroid type	0.42337885678364234	FALSE
+Fc epsilon receptor (FCERI) signaling	0.4236326050228179	FALSE
+PLC beta mediated events	0.4236326050228179	FALSE
+Erythropoietin activates RAS	0.42416941809144687	FALSE
+Defective C1GALT1C1 causes TNPS	0.4272078730177496	FALSE
+Oxidative Stress Induced Senescence	0.4287251553501107	FALSE
+Ca2+ pathway	0.4324388194823895	FALSE
+Defective CFTR causes cystic fibrosis	0.4326159688275374	FALSE
+Apoptosis	0.4326159688275374	FALSE
+N-glycan trimming in the ER and Calnexin/Calreticulin cycle	0.4326159688275374	FALSE
+Parasite infection	0.43300551346781163	FALSE
+Leishmania phagocytosis	0.43300551346781163	FALSE
+FCGR3A-mediated phagocytosis	0.43300551346781163	FALSE
+Caspase-mediated cleavage of cytoskeletal proteins	0.43300551346781163	FALSE
+Calmodulin induced events	0.43300551346781163	FALSE
+CaM pathway	0.43300551346781163	FALSE
+Regulation of beta-cell development	0.4330652199948252	FALSE
+RUNX3 regulates WNT signaling	0.4330652199948252	FALSE
+Signaling by SCF-KIT	0.4330652199948252	FALSE
+Xenobiotics	0.43349476520902785	FALSE
+Fcgamma receptor (FCGR) dependent phagocytosis	0.43349476520902785	FALSE
+Post-translational modification: synthesis of GPI-anchored proteins	0.434243636289289	FALSE
+BH3-only proteins associate with and inactivate anti-apoptotic BCL-2 members	0.4353190169770988	FALSE
+mRNA Capping	0.43547564180183185	FALSE
+Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants	0.4390102763155088	FALSE
+Signaling by Ligand-Responsive EGFR Variants in Cancer	0.4390102763155088	FALSE
+LDL clearance	0.44119286778197697	FALSE
+Signaling by NTRKs	0.44119286778197697	FALSE
+Glutamate Neurotransmitter Release Cycle	0.44136149141427616	TRUE
+Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects	0.4427548223108228	TRUE
+Defective binding of RB1 mutants to E2F1,(E2F2, E2F3)	0.4427548223108228	TRUE
+VEGFR2 mediated vascular permeability	0.44627764054991936	FALSE
+Nucleotide metabolism	0.44627764054991936	FALSE
+RUNX1 regulates transcription of genes involved in WNT signaling	0.44627764054991936	FALSE
+Ubiquinol biosynthesis	0.4471160955480318	FALSE
+DDX58/IFIH1-mediated induction of interferon-alpha/beta	0.4477132325895296	FALSE
+Erythrocytes take up carbon dioxide and release oxygen	0.4482447249575861	FALSE
+O2/CO2 exchange in erythrocytes	0.4482447249575861	FALSE
+HSF1-dependent transactivation	0.4483908523274733	FALSE
+IRAK1 recruits IKK complex	0.4483908523274733	FALSE
+IRAK1 recruits IKK complex upon TLR7/8 or 9 stimulation	0.4483908523274733	FALSE
+trans-Golgi Network Vesicle Budding	0.4483908523274733	FALSE
+Signaling by moderate kinase activity BRAF mutants	0.4483908523274733	FALSE
+Signaling by RAS mutants	0.4483908523274733	FALSE
+Paradoxical activation of RAF signaling by kinase inactive BRAF	0.4483908523274733	FALSE
+Signaling downstream of RAS mutants	0.4483908523274733	FALSE
+Neurexins and neuroligins	0.4483908523274733	FALSE
+Aryl hydrocarbon receptor signalling	0.4483908523274733	FALSE
+Cross-presentation of particulate exogenous antigens (phagosomes)	0.4488951751550272	FALSE
+Regulation of glycolysis by fructose 2,6-bisphosphate metabolism	0.4490370756652317	FALSE
+Prednisone ADME	0.4496562991685346	FALSE
+Defective B4GALT1 causes B4GALT1-CDG (CDG-2d)	0.4496562991685346	FALSE
+Estrogen-stimulated signaling through PRKCZ	0.4496562991685346	FALSE
+Synthesis of substrates in N-glycan biosythesis	0.4496562991685346	FALSE
+NOTCH3 Intracellular Domain Regulates Transcription	0.4496562991685346	TRUE
+NTRK3 as a dependence receptor	0.4498910488020413	FALSE
+Iron uptake and transport	0.4517886277426662	FALSE
+Fatty acid metabolism	0.45197336175634006	FALSE
+ABC transporter disorders	0.45368178043812907	FALSE
+Gap-filling DNA repair synthesis and ligation in GG-NER	0.4538704355539837	FALSE
+Signaling by VEGF	0.45791643553307443	FALSE
+Interleukin-12 family signaling	0.45791643553307443	TRUE
+Glycosphingolipid metabolism	0.45791643553307443	FALSE
+Removal of the Flap Intermediate from the C-strand	0.46128982830751014	FALSE
+Erythropoietin activates Phosphoinositide-3-kinase (PI3K)	0.4617691380427459	FALSE
+IL-6-type cytokine receptor ligand interactions	0.4621766099786107	FALSE
+TRAF6 mediated NF-kB activation	0.4635394695380774	FALSE
+Killing mechanisms	0.4635394695380774	FALSE
+WNT5:FZD7-mediated leishmania damping	0.4635394695380774	FALSE
+Recycling pathway of L1	0.4635394695380774	FALSE
+CREB1 phosphorylation through the activation of CaMKII/CaMKK/CaMKIV cascasde	0.46491386952768077	FALSE
+mRNA 3'-end processing	0.4662543106617885	FALSE
+Metabolic disorders of biological oxidation enzymes	0.4662543106617885	FALSE
+Loss of phosphorylation of MECP2 at T308	0.4662543106617885	FALSE
+TNFR1-induced NF-kappa-B signaling pathway	0.4662543106617885	FALSE
+Sema4D mediated inhibition of cell attachment and migration	0.4662543106617885	FALSE
+Pexophagy	0.46766813366447335	FALSE
+SHC1 events in ERBB2 signaling	0.4676715647031379	FALSE
+Synthesis of Prostaglandins (PG) and Thromboxanes (TX)	0.46804205743972405	FALSE
+TNFR2 non-canonical NF-kB pathway	0.46863276882647603	FALSE
+Translesion Synthesis by POLH	0.47066173291090246	FALSE
+Negative regulation of FGFR1 signaling	0.47188115470352016	FALSE
+TP53 Regulates Transcription of Genes Involved in G1 Cell Cycle Arrest	0.47258275649105486	FALSE
+Base Excision Repair	0.47258275649105486	FALSE
+Basigin interactions	0.47281335853992945	FALSE
+Nef-mediates down modulation of cell surface receptors by recruiting them to clathrin adapters	0.47431665247533605	FALSE
+AUF1 (hnRNP D0) binds and destabilizes mRNA	0.47431665247533605	FALSE
+Defects of Formation of Fibrin Clot (Clotting Cascade)	0.47431665247533605	FALSE
+Diseases of hemostasis	0.47431665247533605	FALSE
+MECP2 regulates neuronal receptors and channels	0.47431665247533605	FALSE
+B Cell Activation	0.47678636152168297	FALSE
+VLDLR internalisation and degradation	0.4773800143071119	FALSE
+Negative regulation of MAPK pathway	0.4773800143071119	TRUE
+Glyoxylate metabolism and glycine degradation	0.4785227231923976	FALSE
+Laminin interactions	0.4800732367910851	FALSE
+Cellular Senescence	0.4800732367910851	FALSE
+Translesion synthesis by REV1	0.4823709678084833	FALSE
+Translesion synthesis by POLI	0.4823709678084833	FALSE
+Drug-mediated inhibition of CDK4/CDK6 activity	0.4823709678084833	FALSE
+Mitophagy	0.48240239413957203	FALSE
+SARS-CoV-2 targets host intracellular signalling and regulatory pathways	0.48330893456856194	FALSE
+NADE modulates death signalling	0.4856032218317871	FALSE
+Sperm Motility And Taxes	0.4856032218317871	FALSE
+Intraflagellar transport	0.48625612783201433	FALSE
+PKA-mediated phosphorylation of key metabolic factors	0.48644030162768814	FALSE
+FCERI mediated MAPK activation	0.4873230632023566	FALSE
+AURKA Activation by TPX2	0.4908410605091387	FALSE
+Recruitment of NuMA to mitotic centrosomes	0.49323645332197025	FALSE
+Signaling by AXIN mutants	0.4939176253109104	FALSE
+Signaling by APC mutants	0.4939176253109104	FALSE
+Signaling by AMER1 mutants	0.4939176253109104	FALSE
+APC truncation mutants have impaired AXIN binding	0.4939176253109104	FALSE
+AXIN missense mutants destabilize the destruction complex	0.4939176253109104	FALSE
+Truncations of AMER1 destabilize the destruction complex	0.4939176253109104	FALSE
+MAPK1 (ERK2) activation	0.4939176253109104	FALSE
+Synthesis, secretion, and deacylation of Ghrelin	0.4939176253109104	FALSE
+Signaling by Erythropoietin	0.4939176253109104	FALSE
+Binding and entry of HIV virion	0.49484432358076946	FALSE
+APAP ADME	0.4984263163174443	FALSE
+LRR FLII-interacting protein 1 (LRRFIP1) activates type I IFN production	0.49847310001963274	FALSE
+p75NTR negatively regulates cell cycle via SC1	0.49847310001963274	FALSE
+RND1 GTPase cycle	0.5017783666630026	FALSE
+Synthesis, secretion, and inactivation of Glucagon-like Peptide-1 (GLP-1)	0.5044840645337096	FALSE
+Incretin synthesis, secretion, and inactivation	0.5044840645337096	FALSE
+Endosomal/Vacuolar pathway	0.5050502096397027	FALSE
+Oncogene Induced Senescence	0.5050502096397027	FALSE
+Interferon Signaling	0.5050502096397027	TRUE
+Interleukin-12 signaling	0.5053469445326465	FALSE
+G alpha (12/13) signalling events	0.5054324500744195	FALSE
+Defective CHST14 causes EDS, musculocontractural type	0.5054324500744195	FALSE
+A tetrasaccharide linker sequence is required for GAG synthesis	0.5054324500744195	FALSE
+Fatty acyl-CoA biosynthesis	0.5054324500744195	FALSE
+Interleukin-27 signaling	0.5054324500744195	FALSE
+Erythrocytes take up oxygen and release carbon dioxide	0.5054324500744195	FALSE
+Tight junction interactions	0.5069629632898043	FALSE
+EGR2 and SOX10-mediated initiation of Schwann cell myelination	0.5069629632898043	FALSE
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells	0.508139134434542	FALSE
+SUMOylation of transcription factors	0.5093947131124207	FALSE
+RAB geranylgeranylation	0.5093947131124207	FALSE
+Sensory Perception	0.5093947131124207	FALSE
+HDL remodeling	0.5093947131124207	FALSE
+Coenzyme A biosynthesis	0.5125040367841277	FALSE
+Regulation of cortical dendrite branching	0.5144644287266781	FALSE
+Stimuli-sensing channels	0.5144644287266781	FALSE
+Nuclear events stimulated by ALK signaling in cancer	0.5144644287266781	FALSE
+MAPK family signaling cascades	0.515670025846878	FALSE
+RUNX3 regulates p14-ARF	0.515670025846878	FALSE
+Vitamin C (ascorbate) metabolism	0.5173421770647192	FALSE
+Interferon gamma signaling	0.5173421770647192	FALSE
+G-protein mediated events	0.5175225769671562	FALSE
+Recruitment of mitotic centrosome proteins and complexes	0.5175225769671562	FALSE
+Centrosome maturation	0.5175225769671562	FALSE
+Ephrin signaling	0.5238507059129843	FALSE
+DCC mediated attractive signaling	0.5238507059129843	FALSE
+Transport of vitamins, nucleosides, and related molecules	0.5238507059129843	FALSE
+Trafficking of myristoylated proteins to the cilium	0.524525828573936	FALSE
+Signaling Pathways	0.5250619089751084	FALSE
+Glucagon signaling in metabolic regulation	0.5250619089751084	FALSE
+Interleukin-9 signaling	0.5250619089751084	FALSE
+Interleukin-21 signaling	0.5250619089751084	FALSE
+Phase 0 - rapid depolarisation	0.5253513859995543	FALSE
+VEGFA-VEGFR2 Pathway	0.5253513859995543	FALSE
+RNA Polymerase I Transcription Termination	0.5259100792493262	FALSE
+RAS processing	0.5259100792493262	FALSE
+TNFR1-induced proapoptotic signaling	0.5260618692818378	FALSE
+PERK regulates gene expression	0.5260618692818378	TRUE
+Synthesis of PIPs at the late endosome membrane	0.5290966094390911	FALSE
+G-protein activation	0.5305035500892542	FALSE
+FGFR3 ligand binding and activation	0.5305035500892542	TRUE
+FGFR3c ligand binding and activation	0.5305035500892542	TRUE
+G beta:gamma signalling through PI3Kgamma	0.5305035500892542	FALSE
+Signaling by NODAL	0.5329991824579827	FALSE
+Long-term potentiation	0.5332267892751645	FALSE
+Regulation of PTEN stability and activity	0.5332267892751645	FALSE
+Defective B3GALTL causes PpS	0.5332267892751645	FALSE
+Carboxyterminal post-translational modifications of tubulin	0.5332267892751645	TRUE
+Crosslinking of collagen fibrils	0.5332267892751645	FALSE
+Keratan sulfate/keratin metabolism	0.5332267892751645	FALSE
+Metalloprotease DUBs	0.5332267892751645	FALSE
+Recognition and association of DNA glycosylase with site containing an affected pyrimidine	0.5332267892751645	FALSE
+Cleavage of the damaged pyrimidine	0.5332267892751645	FALSE
+Recognition and association of DNA glycosylase with site containing an affected purine	0.5332267892751645	FALSE
+Cleavage of the damaged purine	0.5332267892751645	FALSE
+Packaging Of Telomere Ends	0.5332267892751645	FALSE
+Depurination	0.5332267892751645	FALSE
+Depyrimidination	0.5332267892751645	FALSE
+Base-Excision Repair, AP Site Formation	0.5332267892751645	FALSE
+FLT3 signaling by CBL mutants	0.5332267892751645	FALSE
+Signaling by NOTCH3	0.5368328111977209	FALSE
+TFAP2 (AP-2) family regulates transcription of cell cycle factors	0.5368328111977209	FALSE
+Defensins	0.5368509298375961	FALSE
+Hedgehog 'off' state	0.537646292095193	FALSE
+Vitamin B2 (riboflavin) metabolism	0.5427439788390291	FALSE
+RIPK1-mediated regulated necrosis	0.5432212826236076	FALSE
+Semaphorin interactions	0.5432212826236076	FALSE
+Histidine catabolism	0.5444748140986808	FALSE
+Metabolism of lipids	0.5450657311859165	FALSE
+RAC2 GTPase cycle	0.5483490580914586	FALSE
+Interleukin-1 family signaling	0.5495139472193911	FALSE
+Collagen biosynthesis and modifying enzymes	0.5496616312243995	FALSE
+Dermatan sulfate biosynthesis	0.550056070852809	FALSE
+RHOT2 GTPase cycle	0.550056070852809	FALSE
+Growth hormone receptor signaling	0.5504511655459116	FALSE
+Signaling by EGFR	0.551391818575352	FALSE
+LXRs regulate gene expression linked to triglyceride lipolysis in adipose	0.552175569366605	FALSE
+RNA polymerase II transcribes snRNA genes	0.5523793890519985	FALSE
+ERBB2 Activates PTK6 Signaling	0.553136591055069	FALSE
+Regulation of TNFR1 signaling	0.5539362629443976	FALSE
+NOTCH4 Intracellular Domain Regulates Transcription	0.555037964147884	FALSE
+Regulation of KIT signaling	0.555037964147884	FALSE
+PI-3K cascade:FGFR2	0.5569259545921965	FALSE
+Serotonin Neurotransmitter Release Cycle	0.5587637720203015	TRUE
+Norepinephrine Neurotransmitter Release Cycle	0.5587637720203015	TRUE
+Acetylcholine Neurotransmitter Release Cycle	0.5587637720203015	TRUE
+Circadian Clock	0.5596493668145013	FALSE
+Regulation of PLK1 Activity at G2/M Transition	0.5596493668145013	FALSE
+Interleukin-15 signaling	0.5602870574973438	FALSE
+Regulation of actin dynamics for phagocytic cup formation	0.56031818124955	FALSE
+Synthesis of PIPs in the nucleus	0.5609923443359223	FALSE
+FGFR1b ligand binding and activation	0.5610516730162315	FALSE
+Plasma lipoprotein assembly	0.5610516730162315	FALSE
+Deadenylation of mRNA	0.5613788898176895	FALSE
+CD163 mediating an anti-inflammatory response	0.5616050816297927	FALSE
+Signaling by Receptor Tyrosine Kinases	0.5616050816297927	FALSE
+Apoptotic cleavage of cell adhesion  proteins	0.5616050816297927	FALSE
+Scavenging by Class F Receptors	0.5616050816297927	FALSE
+p75NTR signals via NF-kB	0.5616050816297927	FALSE
+Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation	0.5616050816297927	FALSE
+Macroautophagy	0.5616050816297927	FALSE
+Olfactory Signaling Pathway	0.5619262078413871	FALSE
+Signaling by high-kinase activity BRAF mutants	0.5619262078413871	FALSE
+Synthesis of PIPs at the Golgi membrane	0.5619262078413871	FALSE
+PI-3K cascade:FGFR3	0.5619262078413871	FALSE
+PI-3K cascade:FGFR4	0.5619262078413871	FALSE
+Metal ion SLC transporters	0.5628609476946813	FALSE
+Thromboxane signalling through TP receptor	0.5628609476946813	FALSE
+Integrin cell surface interactions	0.568051577125754	FALSE
+Post-translational protein phosphorylation	0.5687295897381995	TRUE
+Protein-protein interactions at synapses	0.570604172709067	FALSE
+Purine catabolism	0.5709729675520825	FALSE
+TNF signaling	0.571505283525345	FALSE
+Neurofascin interactions	0.5757542476036104	FALSE
+Glucuronidation	0.5757542476036104	FALSE
+Phase 3 - rapid repolarisation	0.5757542476036104	FALSE
+Phase 2 - plateau phase	0.5757542476036104	FALSE
+Aflatoxin activation and detoxification	0.5757542476036104	FALSE
+Interleukin-10 signaling	0.5757542476036104	FALSE
+RHO GTPases Activate WASPs and WAVEs	0.5757542476036104	FALSE
+FGFRL1 modulation of FGFR1 signaling	0.5757542476036104	FALSE
+Calnexin/calreticulin cycle	0.5757542476036104	FALSE
+MAPK targets/ Nuclear events mediated by MAP kinases	0.5757542476036104	FALSE
+Prostacyclin signalling through prostacyclin receptor	0.5757542476036104	FALSE
+Glucagon-type ligand receptors	0.5757542476036104	FALSE
+Translesion synthesis by POLK	0.5757542476036104	FALSE
+L1CAM interactions	0.5769552621804274	FALSE
+Signaling by FLT3 ITD and TKD mutants	0.5809160256240024	FALSE
+Glycogen storage diseases	0.5814783508395563	FALSE
+Diseases of carbohydrate metabolism	0.5814783508395563	FALSE
+ER to Golgi Anterograde Transport	0.5814783508395563	FALSE
+Intrinsic Pathway for Apoptosis	0.5814783508395563	FALSE
+Transport to the Golgi and subsequent modification	0.5814783508395563	FALSE
+Nuclear Receptor transcription pathway	0.5814783508395563	FALSE
+TP53 Regulates Transcription of Caspase Activators and Caspases	0.5814783508395563	FALSE
+Synthesis of UDP-N-acetyl-glucosamine	0.5814783508395563	FALSE
+Metabolism	0.5814783508395563	FALSE
+Uptake and function of diphtheria toxin	0.5814783508395563	FALSE
+Signaling by Overexpressed Wild-Type EGFR in Cancer	0.5814783508395563	FALSE
+Inhibition of Signaling by Overexpressed EGFR	0.5814783508395563	FALSE
+Kinesins	0.5826849418642648	FALSE
+Glycosaminoglycan metabolism	0.5838122412073089	FALSE
+Sphingolipid metabolism	0.5848622070695555	TRUE
+Vitamin D (calciferol) metabolism	0.5848622070695555	FALSE
+GPER1 signaling	0.5860671762449506	FALSE
+Defective factor VIII causes hemophilia A	0.5860671762449506	FALSE
+Formation of tubulin folding intermediates by CCT/TriC	0.5860671762449506	FALSE
+Aspartate and asparagine metabolism	0.5860671762449506	FALSE
+Retinoid cycle disease events	0.5860671762449506	FALSE
+Diseases associated with visual transduction	0.5860671762449506	FALSE
+Diseases of the neuronal system	0.5860671762449506	FALSE
+Regulated Necrosis	0.5860671762449506	FALSE
+Syndecan interactions	0.5864314213918336	FALSE
+Signaling by MET	0.5864314213918336	FALSE
+RAC1 GTPase cycle	0.589222686587559	FALSE
+MET receptor recycling	0.5921982941024252	FALSE
+Chondroitin sulfate biosynthesis	0.5922808607192939	FALSE
+Activation of PPARGC1A (PGC-1alpha) by phosphorylation	0.5926564060514995	FALSE
+Cooperation of Prefoldin and TriC/CCT  in actin and tubulin folding	0.5943129618917399	FALSE
+DAP12 signaling	0.5949031768164794	FALSE
+RUNX3 regulates YAP1-mediated transcription	0.5949031768164794	FALSE
+Formation of the cornified envelope	0.5949031768164794	FALSE
+Transport of inorganic cations/anions and amino acids/oligopeptides	0.5949986912934183	FALSE
+TRAF6 mediated IRF7 activation in TLR7/8 or 9 signaling	0.5953063720057055	FALSE
+Sensory processing of sound by outer hair cells of the cochlea	0.5953063720057055	FALSE
+Recycling of bile acids and salts	0.5953063720057055	FALSE
+Activated NOTCH1 Transmits Signal to the Nucleus	0.5953063720057055	FALSE
+Amyloid fiber formation	0.5953063720057055	FALSE
+Activation of caspases through apoptosome-mediated cleavage	0.5957748407417074	FALSE
+Branched-chain amino acid catabolism	0.5958828320208713	FALSE
+TBC/RABGAPs	0.5968899987641211	FALSE
+TP53 Regulates Transcription of Cell Death Genes	0.5992497228462254	FALSE
+Regulation of HMOX1 expression and activity	0.5992497228462254	FALSE
+G beta:gamma signalling through CDC42	0.601489127854693	FALSE
+Carbohydrate metabolism	0.601489127854693	FALSE
+TICAM1, RIP1-mediated IKK complex recruitment	0.601489127854693	FALSE
+RHOC GTPase cycle	0.604496407513876	FALSE
+SIRT1 negatively regulates rRNA expression	0.6047388616011896	FALSE
+Signaling by Insulin receptor	0.6083644815079543	FALSE
+Adrenaline,noradrenaline inhibits insulin secretion	0.6083644815079543	FALSE
+The activation of arylsulfatases	0.6093178895126528	FALSE
+RHOBTB2 GTPase cycle	0.6098399193994652	FALSE
+PKA-mediated phosphorylation of CREB	0.6122442133089642	FALSE
+Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3	0.6128473789606871	FALSE
+Sodium/Calcium exchangers	0.6129876094219392	FALSE
+ATF6 (ATF6-alpha) activates chaperone genes	0.6145306656915978	FALSE
+Oncogenic MAPK signaling	0.6168924846184668	FALSE
+Pregnenolone biosynthesis	0.6172483178162479	FALSE
+Activated NTRK2 signals through FYN	0.6196425009487158	FALSE
+Cholesterol biosynthesis	0.6230661573936309	FALSE
+RUNX1 regulates estrogen receptor mediated transcription	0.6230661573936309	FALSE
+HS-GAG degradation	0.6246847398127922	FALSE
+Signaling by activated point mutants of FGFR1	0.6246847398127922	FALSE
+FGFR1 ligand binding and activation	0.6246847398127922	FALSE
+FGFR1c ligand binding and activation	0.6246847398127922	FALSE
+CD28 dependent Vav1 pathway	0.6254752451836255	FALSE
+TGF-beta receptor signaling activates SMADs	0.6254752451836255	FALSE
+Interleukin-36 pathway	0.6254752451836255	FALSE
+ALKBH3 mediated reversal of alkylation damage	0.6254752451836255	FALSE
+DNA Damage Reversal	0.6254752451836255	FALSE
+Reversal of alkylation damage by DNA dioxygenases	0.6254752451836255	FALSE
+Attachment of GPI anchor to uPAR	0.6254752451836255	FALSE
+Sensory processing of sound	0.6254752451836255	FALSE
+Regulation of innate immune responses to cytosolic DNA	0.6254752451836255	FALSE
+Activation of G protein gated Potassium channels	0.6254752451836255	FALSE
+G protein gated Potassium channels	0.6254752451836255	FALSE
+G beta:gamma signalling through BTK	0.6254752451836255	FALSE
+Inhibition  of voltage gated Ca2+ channels via Gbeta/gamma subunits	0.6254752451836255	FALSE
+Reproduction	0.6254752451836255	FALSE
+Programmed Cell Death	0.6279811884182523	FALSE
+Vitamin B5 (pantothenate) metabolism	0.6279811884182523	FALSE
+Fanconi Anemia Pathway	0.6279811884182523	FALSE
+RND3 GTPase cycle	0.6304814906268502	FALSE
+Urea cycle	0.6304814906268502	FALSE
+ERK1/ERK2 pathway	0.6309057356512698	FALSE
+ADP signalling through P2Y purinoceptor 1	0.631345070833251	FALSE
+Gamma-carboxylation of protein precursors	0.6318915667602064	FALSE
+Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein	0.6334318358534106	FALSE
+O-glycosylation of TSR domain-containing proteins	0.6337661000966064	FALSE
+tRNA modification in the nucleus and cytosol	0.6361746406134967	FALSE
+Formation of apoptosome	0.6361746406134967	FALSE
+Regulation of the apoptosome activity	0.6361746406134967	FALSE
+RAB GEFs exchange GTP for GDP on RABs	0.6361746406134967	FALSE
+Factors involved in megakaryocyte development and platelet production	0.6361746406134967	FALSE
+mTORC1-mediated signalling	0.6407189842428304	FALSE
+Ion channel transport	0.6434034221829472	FALSE
+Netrin-1 signaling	0.644757841392396	FALSE
+G-protein beta:gamma signalling	0.6451234046904988	FALSE
+Pre-NOTCH Processing in the Endoplasmic Reticulum	0.6452974139613405	FALSE
+Transport of bile salts and organic acids, metal ions and amine compounds	0.6452974139613405	FALSE
+Transcriptional regulation of granulopoiesis	0.6452974139613405	FALSE
+STAT6-mediated induction of chemokines	0.6470955480652439	FALSE
+ATF4 activates genes in response to endoplasmic reticulum  stress	0.6470955480652439	TRUE
+TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)	0.6472721325236243	FALSE
+Endosomal Sorting Complex Required For Transport (ESCRT)	0.6472932697836153	FALSE
+Signaling by RAF1 mutants	0.6472932697836153	FALSE
+Opioid Signalling	0.6472932697836153	FALSE
+Ligand-receptor interactions	0.6472932697836153	FALSE
+Beta-catenin phosphorylation cascade	0.6476814606548996	FALSE
+Gastrin-CREB signalling pathway via PKC and MAPK	0.648434162020855	FALSE
+Signaling by TGF-beta Receptor Complex in Cancer	0.648434162020855	FALSE
+Rab regulation of trafficking	0.6503566505718722	FALSE
+Formation of annular gap junctions	0.6507522675902632	FALSE
+EPHA-mediated growth cone collapse	0.653164771168555	FALSE
+Infection with Mycobacterium tuberculosis	0.6540261642274263	FALSE
+Suppression of phagosomal maturation	0.6540261642274263	FALSE
+Response of Mtb to phagocytosis	0.6540261642274263	FALSE
+Transmission across Chemical Synapses	0.6549460009919176	FALSE
+SLC-mediated transmembrane transport	0.6552939200025429	FALSE
+Estrogen-dependent nuclear events downstream of ESR-membrane signaling	0.655522427265259	FALSE
+G alpha (i) signalling events	0.655522427265259	FALSE
+Triglyceride biosynthesis	0.655522427265259	FALSE
+Gamma carboxylation, hypusine formation and arylsulfatase activation	0.655522427265259	FALSE
+G alpha (q) signalling events	0.655522427265259	FALSE
+Dissolution of Fibrin Clot	0.655522427265259	FALSE
+Loss of Nlp from mitotic centrosomes	0.655522427265259	TRUE
+Loss of proteins required for interphase microtubule organization from the centrosome	0.655522427265259	TRUE
+Neurotransmitter clearance	0.655522427265259	FALSE
+Clearance of dopamine	0.655522427265259	FALSE
+PI3K events in ERBB4 signaling	0.655522427265259	FALSE
+Insulin receptor recycling	0.6556964584907207	FALSE
+Phenylalanine and tyrosine metabolism	0.6561092151104254	FALSE
+Transport of RCbl within the body	0.6586904751188928	FALSE
+Striated Muscle Contraction	0.6635904168171236	FALSE
+TLR3-mediated TICAM1-dependent programmed cell death	0.6635904168171236	FALSE
+Keratan sulfate degradation	0.664224750829377	FALSE
+Keratan sulfate biosynthesis	0.6646948563096313	FALSE
+Physiological factors	0.6646948563096313	FALSE
+MAP2K and MAPK activation	0.6646948563096313	FALSE
+RHOBTB GTPase Cycle	0.6646948563096313	FALSE
+The canonical retinoid cycle in rods (twilight vision)	0.6648734145127363	FALSE
+Gap junction degradation	0.6648734145127363	FALSE
+Phospholipase C-mediated cascade; FGFR2	0.6681475293748184	FALSE
+PINK1-PRKN Mediated Mitophagy	0.6681475293748184	FALSE
+Response of EIF2AK1 (HRI) to heme deficiency	0.6696917905409854	FALSE
+Formation of paraxial mesoderm	0.6696917905409854	FALSE
+TNFR1-mediated ceramide production	0.6696917905409854	FALSE
+Assembly and cell surface presentation of NMDA receptors	0.6696917905409854	FALSE
+TFAP2 (AP-2) family regulates transcription of other transcription factors	0.6717878399505525	FALSE
+Triglyceride catabolism	0.6717878399505525	FALSE
+Degradation of the extracellular matrix	0.6722177296496075	FALSE
+RUNX2 regulates genes involved in differentiation of myeloid cells	0.673221658846552	FALSE
+Negative regulation of MET activity	0.6741059553146658	FALSE
+Signalling to RAS	0.675175613007754	FALSE
+RNA Polymerase III Transcription Initiation From Type 3 Promoter	0.6752087289308079	FALSE
+Sensory perception of sweet, bitter, and umami (glutamate) taste	0.6776615758391262	FALSE
+Defective factor IX causes hemophilia B	0.6787270427423915	FALSE
+DSCAM interactions	0.6813828136659219	FALSE
+Defective B3GAT3 causes JDSSDHD	0.6813828136659219	FALSE
+Synthesis of IP3 and IP4 in the cytosol	0.6844087235513887	FALSE
+Diseases associated with glycosaminoglycan metabolism	0.6844361110564409	FALSE
+Budding and maturation of HIV virion	0.6844361110564409	FALSE
+COPI-mediated anterograde transport	0.6867050575113868	FALSE
+Inactivation of CSF3 (G-CSF) signaling	0.6867203638946977	FALSE
+Glycogen metabolism	0.68713331061105	FALSE
+Signaling by MAPK mutants	0.6882495660128971	FALSE
+Adherens junctions interactions	0.6885252139264015	FALSE
+Activation of SMO	0.6906374457556741	FALSE
+PP2A-mediated dephosphorylation of key metabolic factors	0.6906374457556741	FALSE
+RHOJ GTPase cycle	0.6907952323427259	FALSE
+Acyl chain remodelling of PS	0.6913066728563075	FALSE
+Antigen Presentation: Folding, assembly and peptide loading of class I MHC	0.6915929015306638	FALSE
+Free fatty acids regulate insulin secretion	0.6943184584187385	FALSE
+NFE2L2 regulating anti-oxidant/detoxification enzymes	0.6943184584187385	FALSE
+Synthesis of very long-chain fatty acyl-CoAs	0.6943184584187385	FALSE
+Signal attenuation	0.6948454026082547	FALSE
+CREB1 phosphorylation through NMDA receptor-mediated activation of RAS signaling	0.6948454026082547	FALSE
+Gamma-carboxylation, transport, and amino-terminal cleavage of proteins	0.6948454026082547	FALSE
+Collagen chain trimerization	0.6951373664969224	FALSE
+Androgen biosynthesis	0.69674270808839045	FALSE
+Fructose metabolism	0.6969225386786245	FALSE
+p75NTR recruits signalling complexes	0.6974045523272451	FALSE
+Interleukin-6 family signaling	0.6974045523272451	FALSE
+NrCAM interactions	0.6974045523272451	FALSE
+Organic anion transporters	0.6974045523272451	FALSE
+Assembly of the ORC complex at the origin of replication	0.6974045523272451	FALSE
+Transport of small molecules	0.6974045523272451	FALSE
+TICAM1-dependent activation of IRF3/IRF7	0.6974045523272451	FALSE
+Acyl chain remodeling of DAG and TAG	0.6974045523272451	FALSE
+HSP90 chaperone cycle for SHRs	0.698718536989185	FALSE
+Glutathione conjugation	0.698718536989185	FALSE
+Negative regulation of NMDA receptor-mediated neuronal transmission	0.6988011120204345	FALSE
+Innate Immune System	0.6993631157336923	FALSE
+FBXW7 Mutants and NOTCH1 in Cancer	0.6993631157336923	FALSE
+Loss of Function of FBXW7 in Cancer and NOTCH1 Signaling	0.6993631157336923	FALSE
+Regulation of localization of FOXO transcription factors	0.6994228292862683	FALSE
+Bicarbonate transporters	0.6994228292862683	FALSE
+Activated NTRK3 signals through PI3K	0.6994228292862683	FALSE
+Sema4D in semaphorin signaling	0.6994228292862683	FALSE
+Defects in vitamin and cofactor metabolism	0.6994228292862683	FALSE
+Biotin transport and metabolism	0.6994228292862683	FALSE
+RET signaling	0.7000145577661738	FALSE
+Loss of Function of SMAD2/3 in Cancer	0.7000145577661738	FALSE
+SMAD2/3 Phosphorylation Motif Mutants in Cancer	0.7000145577661738	FALSE
+BBSome-mediated cargo-targeting to cilium	0.7000218638655674	FALSE
+HSF1 activation	0.7000218638655674	FALSE
+Platelet homeostasis	0.7000218638655674	FALSE
+RSK activation	0.7000218638655674	FALSE
+Notch-HLH transcription pathway	0.7002381224241239	FALSE
+Insulin processing	0.7028044591694786	FALSE
+ERBB2 Regulates Cell Motility	0.7030144268970566	FALSE
+Gap junction trafficking	0.7030144268970566	FALSE
+ATF6 (ATF6-alpha) activates chaperones	0.7030144268970566	FALSE
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane	0.7048070176220589	FALSE
+Sensing of DNA Double Strand Breaks	0.7048606362095718	FALSE
+Prefoldin mediated transfer of substrate  to CCT/TriC	0.7048606362095718	FALSE
+Anti-inflammatory response favouring Leishmania parasite infection	0.7048606362095718	FALSE
+Leishmania parasite growth and survival	0.7048606362095718	FALSE
+RAF/MAP kinase cascade	0.7071652314963492	FALSE
+Negative regulation of FLT3	0.7104244172079408	FALSE
+Synthesis of PI	0.7120265926632323	FALSE
+COPI-independent Golgi-to-ER retrograde traffic	0.7120265926632323	FALSE
+BMAL1:CLOCK,NPAS2 activates circadian gene expression	0.7121084598012335	FALSE
+Receptor-type tyrosine-protein phosphatases	0.7123280166361977	FALSE
+EPH-ephrin mediated repulsion of cells	0.7123280166361977	FALSE
+HDR through MMEJ (alt-NHEJ)	0.7141359708881448	FALSE
+Adaptive Immune System	0.7142930972717099	FALSE
+Collagen formation	0.7155188346035056	FALSE
+ECM proteoglycans	0.716095802800483	FALSE
+SARS-CoV-1 activates/modulates innate immune responses	0.716095802800483	FALSE
+GPCR downstream signalling	0.7162787504817827	FALSE
+EGFR interacts with phospholipase C-gamma	0.7162787504817827	FALSE
+Heme signaling	0.7162787504817827	FALSE
+MET promotes cell motility	0.7162787504817827	FALSE
+Phospholipase C-mediated cascade; FGFR3	0.7162787504817827	FALSE
+Phospholipase C-mediated cascade; FGFR4	0.7162787504817827	FALSE
+Synthesis of pyrophosphates in the cytosol	0.7164474614627279	FALSE
+Signaling by ERBB2	0.7221346020011891	FALSE
+NOTCH4 Activation and Transmission of Signal to the Nucleus	0.722624732451583	FALSE
+VEGFR2 mediated cell proliferation	0.7228447037907575	FALSE
+Transcriptional regulation of white adipocyte differentiation	0.7228556565225434	FALSE
+Lysine catabolism	0.7228556565225434	FALSE
+IRF3 mediated activation of type 1 IFN	0.7228556565225434	FALSE
+Signaling by MRAS-complex mutants	0.7228556565225434	FALSE
+SHOC2 M1731 mutant abolishes MRAS complex function	0.7228556565225434	FALSE
+Gain-of-function MRAS complexes activate RAF signaling	0.7228556565225434	FALSE
+Attenuation phase	0.7228556565225434	FALSE
+Defective CHSY1 causes TPBS	0.7274451599120809	FALSE
+Interleukin-17 signaling	0.7324075784449714	FALSE
+Chylomicron clearance	0.7327800589788915	FALSE
+Transcriptional regulation of pluripotent stem cells	0.7334153653400467	FALSE
+Nectin/Necl  trans heterodimerization	0.7334153653400467	FALSE
+RHO GTPases Activate ROCKs	0.7351819800004903	FALSE
+Signaling by GPCR	0.7354070825992042	FALSE
+Immune System	0.7354070825992042	FALSE
+Interleukin-2 family signaling	0.7359550954198318	FALSE
+Protein localization	0.736169635479074	FALSE
+Biosynthesis of protectins	0.7362321321142186	FALSE
+G alpha (z) signalling events	0.7397930403045325	FALSE
+Elastic fibre formation	0.7397930403045325	FALSE
+Defects in biotin (Btn) metabolism	0.7422956645539306	FALSE
+Defective HLCS causes multiple carboxylase deficiency	0.7422956645539306	FALSE
+Endogenous sterols	0.7426116307110806	FALSE
+PI3K/AKT activation	0.7435796750780754	FALSE
+ROS and RNS production in phagocytes	0.7454388856980801	FALSE
+Regulation of insulin secretion	0.7457418677383558	FALSE
+MTOR signalling	0.7483033752325151	FALSE
+RA biosynthesis pathway	0.7483033752325151	FALSE
+Nephrin family interactions	0.7501312817735143	FALSE
+Cam-PDE 1 activation	0.7517012644108546	FALSE
+VEGF ligand-receptor interactions	0.7517012644108546	FALSE
+VEGF binds to VEGFR leading to receptor dimerization	0.7517012644108546	FALSE
+Acetylcholine regulates insulin secretion	0.7517012644108546	FALSE
+Pyrimidine salvage	0.7525834266451134	FALSE
+Release of Hh-Np from the secreting cell	0.7525834266451134	FALSE
+Organelle biogenesis and maintenance	0.7525834266451134	FALSE
+Loss of MECP2 binding ability to the NCoR/SMRT complex	0.7525834266451134	FALSE
+Inositol phosphate metabolism	0.7525834266451134	FALSE
+Regulation of lipid metabolism by PPARalpha	0.7525834266451134	FALSE
+Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha)	0.7558605884495327	FALSE
+Fibronectin matrix formation	0.7558605884495327	FALSE
+MET activates PI3K/AKT signaling	0.7558605884495327	FALSE
+FCERI mediated Ca+2 mobilization	0.7584457175646109	FALSE
+mitochondrial fatty acid beta-oxidation of saturated fatty acids	0.7596891028588999	FALSE
+Fructose catabolism	0.7596891028588999	FALSE
+Sensory processing of sound by inner hair cells of the cochlea	0.7603067419963062	FALSE
+Beta oxidation of decanoyl-CoA to octanoyl-CoA-CoA	0.760948094061414	FALSE
+InlB-mediated entry of Listeria monocytogenes into host cell	0.760948094061414	FALSE
+Zinc transporters	0.761496667155044	FALSE
+TAK1-dependent IKK and NF-kappa-B activation	0.7623368033250253	FALSE
+FasL/ CD95L signaling	0.7623368033250253	FALSE
+eNOS activation	0.7623368033250253	FALSE
+Nuclear signaling by ERBB4	0.7623368033250253	FALSE
+Type I hemidesmosome assembly	0.7623368033250253	FALSE
+Beta-oxidation of pristanoyl-CoA	0.7635021332846093	FALSE
+Cargo recognition for clathrin-mediated endocytosis	0.7635021332846093	FALSE
+SHC1 events in EGFR signaling	0.7635021332846093	FALSE
+Defective CYP11A1 causes AICSR	0.7635021332846093	FALSE
+Ras activation upon Ca2+ influx through NMDA receptor	0.7641610502405227	FALSE
+Plasma lipoprotein clearance	0.7641610502405227	FALSE
+Synaptic adhesion-like molecules	0.7653859066565254	FALSE
+Synthesis of GDP-mannose	0.7682418253722968	FALSE
+PPARA activates gene expression	0.7684716191128615	FALSE
+Dopamine Neurotransmitter Release Cycle	0.7703749184926509	FALSE
+Heme biosynthesis	0.7709891932281621	FALSE
+Inactivation of CDC42 and RAC1	0.7709891932281621	FALSE
+Expression and translocation of olfactory receptors	0.7714120561377047	FALSE
+Erythropoietin activates Phospholipase C gamma (PLCG)	0.7714120561377047	FALSE
+TP53 Regulates Transcription of Death Receptors and Ligands	0.7714120561377047	FALSE
+TFAP2 (AP-2) family regulates transcription of growth factors and their receptors	0.7714120561377047	FALSE
+Reelin signalling pathway	0.7714120561377047	FALSE
+CHL1 interactions	0.7714120561377047	FALSE
+MyD88:MAL(TIRAP) cascade initiated on plasma membrane	0.7714120561377047	FALSE
+Toll Like Receptor TLR1:TLR2 Cascade	0.7714120561377047	FALSE
+Toll Like Receptor TLR6:TLR2 Cascade	0.7714120561377047	FALSE
+Toll Like Receptor 2 (TLR2) Cascade	0.7714120561377047	FALSE
+Regulation of gene expression by Hypoxia-inducible Factor	0.7714596723585962	FALSE
+Metabolism of fat-soluble vitamins	0.7743391351333752	FALSE
+Retinoid metabolism and transport	0.7743391351333752	FALSE
+GPVI-mediated activation cascade	0.7743391351333752	FALSE
+Autophagy	0.7747853601423281	FALSE
+TP53 Regulates Transcription of Genes Involved in Cytochrome C Release	0.7758744365842218	FALSE
+Antigen processing-Cross presentation	0.7759777724648298	FALSE
+The phototransduction cascade	0.7787065847016039	FALSE
+Inactivation, recovery and regulation of the phototransduction cascade	0.7787065847016039	FALSE
+RHOQ GTPase cycle	0.7795809555127624	FALSE
+VxPx cargo-targeting to cilium	0.7795809555127624	FALSE
+Beta oxidation of hexanoyl-CoA to butanoyl-CoA	0.784709350012509	FALSE
+Cellular hexose transport	0.7859352881824007	FALSE
+VLDL clearance	0.7859669812803123	FALSE
+G alpha (s) signalling events	0.7863217689642451	FALSE
+RUNX3 regulates NOTCH signaling	0.7873903076162787	FALSE
+Pyrimidine catabolism	0.7873903076162787	FALSE
+Estrogen biosynthesis	0.7880643107179462	FALSE
+Adenylate cyclase inhibitory pathway	0.7880643107179462	FALSE
+Voltage gated Potassium channels	0.788254522025005	FALSE
+TRAIL  signaling	0.788254522025005	FALSE
+Axonal growth stimulation	0.788254522025005	FALSE
+Defective EXT2 causes exostoses 2	0.788254522025005	FALSE
+Defective EXT1 causes exostoses 1, TRPS2 and CHDS	0.788254522025005	FALSE
+Sema4D induced cell migration and growth-cone collapse	0.7893092228929838	FALSE
+Nef mediated downregulation of MHC class I complex cell surface expression	0.7893092228929838	FALSE
+Aspirin ADME	0.7893092228929838	FALSE
+AMPK inhibits chREBP transcriptional activation activity	0.7897361039494452	FALSE
+Cytokine Signaling in Immune system	0.7897361039494452	TRUE
+Regulation of signaling by CBL	0.7897361039494452	FALSE
+MAP3K8 (TPL2)-dependent MAPK1/3 activation	0.7901988599420455	FALSE
+RHO GTPase cycle	0.7917765950915711	FALSE
+Interleukin receptor SHC signaling	0.7924491704721209	FALSE
+Other semaphorin interactions	0.7932084692906514	FALSE
+Pyroptosis	0.7945420611119519	FALSE
+STAT3 nuclear events downstream of ALK signaling	0.795096639352607	FALSE
+Selective autophagy	0.795096639352607	FALSE
+NOTCH2 Activation and Transmission of Signal to the Nucleus	0.7964029329957205	FALSE
+RUNX1 regulates expression of components of tight junctions	0.7964029329957205	FALSE
+Activated NTRK2 signals through PI3K	0.7994656989662182	FALSE
+MAP kinase activation	0.7996863785170135	FALSE
+Signaling by NOTCH1 HD Domain Mutants in Cancer	0.7996863785170135	FALSE
+Constitutive Signaling by NOTCH1 HD Domain Mutants	0.7996863785170135	FALSE
+alpha-linolenic (omega3) and linoleic (omega6) acid metabolism	0.7996863785170135	FALSE
+alpha-linolenic acid (ALA) metabolism	0.7996863785170135	FALSE
+Non-integrin membrane-ECM interactions	0.8027260381242719	FALSE
+Signal regulatory protein family interactions	0.8031588995577876	FALSE
+FGFR2b ligand binding and activation	0.8031588995577876	FALSE
+Hyaluronan metabolism	0.8031588995577876	FALSE
+Hyaluronan uptake and degradation	0.8031588995577876	FALSE
+CD22 mediated BCR regulation	0.803232718196162	FALSE
+PKA activation	0.803232718196162	FALSE
+G beta:gamma signalling through PLC beta	0.8055589627063783	FALSE
+Presynaptic function of Kainate receptors	0.8055589627063783	FALSE
+FGFR3b ligand binding and activation	0.8055589627063783	FALSE
+Abacavir ADME	0.8059562379559939	FALSE
+CREB phosphorylation	0.8067271477534363	FALSE
+Tryptophan catabolism	0.8067271477534363	FALSE
+Toll Like Receptor 3 (TLR3) Cascade	0.8068658553995299	FALSE
+Transcriptional Regulation by NPAS4	0.8068658553995299	FALSE
+Assembly of active LPL and LIPC lipase complexes	0.8083749851550606	FALSE
+RUNX3 regulates BCL2L11 (BIM) transcription	0.8083749851550606	FALSE
+Cargo trafficking to the periciliary membrane	0.8084834258658901	FALSE
+Metabolism of cofactors	0.8084834258658901	FALSE
+PKA activation in glucagon signalling	0.8084834258658901	FALSE
+Regulation of IGF Activity by IGFBP	0.8131593091877473	TRUE
+Membrane Trafficking	0.8146282512166568	FALSE
+Uptake and actions of bacterial toxins	0.8154406290165829	FALSE
+RHOBTB3 ATPase cycle	0.8161126471669296	FALSE
+FOXO-mediated transcription of cell cycle genes	0.8170925225440471	FALSE
+Post-chaperonin tubulin folding pathway	0.8183836972769273	FALSE
+Mitochondrial Fatty Acid Beta-Oxidation	0.8183836972769273	FALSE
+RUNX3 regulates CDKN1A transcription	0.8185226967360029	FALSE
+Uptake and function of anthrax toxins	0.819517429370957	FALSE
+Toll Like Receptor 10 (TLR10) Cascade	0.819517429370957	FALSE
+Toll Like Receptor 5 (TLR5) Cascade	0.819517429370957	FALSE
+MyD88 cascade initiated on plasma membrane	0.819517429370957	FALSE
+FLT3 signaling through SRC family kinases	0.8203492458500576	FALSE
+RUNX2 regulates osteoblast differentiation	0.8203492458500576	FALSE
+FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes	0.8203492458500576	FALSE
+Interleukin-38 signaling	0.8248076884178773	FALSE
+SLIT2:ROBO1 increases RHOA activity	0.8268621061391945	FALSE
+Other interleukin signaling	0.8286239810080703	FALSE
+Activation of RAS in B cells	0.8307324705743209	FALSE
+HDMs demethylate histones	0.8308165552654908	FALSE
+Glutathione synthesis and recycling	0.8323785589331236	FALSE
+FLT3 Signaling	0.8344377969342511	FALSE
+Platelet calcium homeostasis	0.8350223778984425	FALSE
+Muscle contraction	0.8357296090500561	FALSE
+Regulation by c-FLIP	0.8357296090500561	FALSE
+CASP8 activity is inhibited	0.8357296090500561	FALSE
+Dimerization of procaspase-8	0.8357296090500561	FALSE
+ARMS-mediated activation	0.8367899741415036	FALSE
+Asparagine N-linked glycosylation	0.8369709128870975	FALSE
+Nucleotide salvage	0.8380008813972185	FALSE
+Synthesis of PIPs at the early endosome membrane	0.8380457498932294	FALSE
+Signaling by BRAF and RAF1 fusions	0.8380457498932294	FALSE
+activated TAK1 mediates p38 MAPK activation	0.8380457498932294	FALSE
+NOTCH3 Activation and Transmission of Signal to the Nucleus	0.8380457498932294	FALSE
+Metabolism of steroid hormones	0.8380457498932294	FALSE
+CLEC7A (Dectin-1) induces NFAT activation	0.8380457498932294	FALSE
+Meiotic synapsis	0.8380457498932294	FALSE
+FGFR2c ligand binding and activation	0.8380457498932294	FALSE
+Activated point mutants of FGFR2	0.8380457498932294	FALSE
+DAP12 interactions	0.8380457498932294	FALSE
+Defective CHST6 causes MCDC1	0.8380457498932294	FALSE
+Defective ST3GAL3 causes MCT12 and EIEE15	0.8380457498932294	FALSE
+Metabolism of nitric oxide: NOS3 activation and regulation	0.8380457498932294	FALSE
+SUMOylation of intracellular receptors	0.8380457498932294	FALSE
+Smooth Muscle Contraction	0.8380457498932294	FALSE
+Sulfur amino acid metabolism	0.8380457498932294	FALSE
+Signalling to p38 via RIT and RIN	0.8387224904294753	FALSE
+Formation of Incision Complex in GG-NER	0.8392291819117006	FALSE
+Signaling by Activin	0.8392291819117006	FALSE
+ER-Phagosome pathway	0.8392291819117006	FALSE
+mitochondrial fatty acid beta-oxidation of unsaturated fatty acids	0.8399713144016612	FALSE
+EPHB-mediated forward signaling	0.8406468178046551	FALSE
+NCAM signaling for neurite out-growth	0.8447818373855047	FALSE
+RUNX1 regulates transcription of genes involved in BCR signaling	0.845267134525687	FALSE
+Phenylalanine metabolism	0.8462295783320661	FALSE
+RHOB GTPase cycle	0.8467850912475515	FALSE
+Ion homeostasis	0.8483418577861769	FALSE
+ROBO receptors bind AKAP5	0.8483418577861769	FALSE
+Repression of WNT target genes	0.8496682883667919	FALSE
+Constitutive Signaling by Aberrant PI3K in Cancer	0.851664992042556	FALSE
+Apoptotic cleavage of cellular proteins	0.851664992042556	FALSE
+Transferrin endocytosis and recycling	0.851664992042556	FALSE
+NOTCH1 Intracellular Domain Regulates Transcription	0.853018990957527	FALSE
+Protein methylation	0.8534373197132654	FALSE
+TNF receptor superfamily (TNFSF) members mediating non-canonical NF-kB pathway	0.8541000392088796	FALSE
+AKT phosphorylates targets in the cytosol	0.8541000392088796	FALSE
+Synthesis of Dolichyl-phosphate	0.8541000392088796	FALSE
+SARS-CoV-2 modulates autophagy	0.8541000392088796	FALSE
+Porphyrin metabolism	0.8553238112563358	FALSE
+Toll Like Receptor 9 (TLR9) Cascade	0.8575410308628815	FALSE
+PI-3K cascade:FGFR1	0.8587621555749632	FALSE
+Integrin signaling	0.8587621555749632	FALSE
+Platelet Aggregation (Plug Formation)	0.8587621555749632	FALSE
+Cytochrome c-mediated apoptotic response	0.8607914399827737	FALSE
+Erythropoietin activates STAT5	0.8607914399827737	FALSE
+Negative regulation of TCF-dependent signaling by WNT ligand antagonists	0.8627633532790179	FALSE
+CD28 dependent PI3K/Akt signaling	0.8627633532790179	FALSE
+RUNX1 regulates transcription of genes involved in interleukin signaling	0.8633240577191642	FALSE
+Translation of Replicase and Assembly of the Replication Transcription Complex	0.8653888644793041	FALSE
+Signal amplification	0.8673992228347951	FALSE
+Molecules associated with elastic fibres	0.8676344231376301	FALSE
+Extra-nuclear estrogen signaling	0.8676344231376301	FALSE
+Formation of definitive endoderm	0.8676344231376301	FALSE
+Beta oxidation of lauroyl-CoA to decanoyl-CoA-CoA	0.8693569592302071	FALSE
+Assembly of collagen fibrils and other multimeric structures	0.8715934805341126	FALSE
+MyD88-independent TLR4 cascade	0.872537966499679	FALSE
+TRIF(TICAM1)-mediated TLR4 signaling	0.872537966499679	FALSE
+Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion	0.8736764156944052	FALSE
+XBP1(S) activates chaperone genes	0.8736764156944052	FALSE
+ERKs are inactivated	0.8736764156944052	FALSE
+Vesicle-mediated transport	0.8757673095995604	FALSE
+NTRK2 activates RAC1	0.8763521331502258	FALSE
+IkBA variant leads to EDA-ID	0.8763581954308882	FALSE
+Unfolded Protein Response (UPR)	0.8767249480127015	FALSE
+Role of phospholipids in phagocytosis	0.8779178797795147	FALSE
+RHOU GTPase cycle	0.8779178797795147	FALSE
+Presynaptic depolarization and calcium channel opening	0.87982807064352	FALSE
+Activation of the TFAP2 (AP-2) family of transcription factors	0.8803349897203362	FALSE
+Downregulation of ERBB2 signaling	0.8803349897203362	FALSE
+Aggrephagy	0.8803349897203362	FALSE
+PTK6 Regulates RHO GTPases, RAS GTPase and MAP kinases	0.8815056007552513	FALSE
+Phospholipase C-mediated cascade: FGFR1	0.8830263604971685	FALSE
+Synthesis of 12-eicosatetraenoic acid derivatives	0.8830263604971685	FALSE
+Synthesis of 15-eicosatetraenoic acid derivatives	0.8830263604971685	FALSE
+Signaling by activated point mutants of FGFR3	0.8830263604971685	FALSE
+FGFR4 ligand binding and activation	0.8830263604971685	FALSE
+FGFR3 mutant receptor activation	0.8830263604971685	FALSE
+PI3K/AKT Signaling in Cancer	0.8834608756804623	FALSE
+Myoclonic epilepsy of Lafora	0.8836159979750468	FALSE
+Glutamate and glutamine metabolism	0.8836159979750468	FALSE
+ZBP1(DAI) mediated induction of type I IFNs	0.8836417471668431	FALSE
+Alpha-defensins	0.8836417471668431	FALSE
+Nicotinamide salvaging	0.8836417471668431	FALSE
+Signaling by Hippo	0.88376543646698	FALSE
+RHOV GTPase cycle	0.88376543646698	FALSE
+ER Quality Control Compartment (ERQC)	0.88376543646698	FALSE
+Noncanonical activation of NOTCH3	0.88376543646698	FALSE
+JNK (c-Jun kinases) phosphorylation and  activation mediated by activated human TAK1	0.88376543646698	FALSE
+Synthesis of IPs in the nucleus	0.8841851871855909	FALSE
+LXRs regulate gene expression linked to lipogenesis	0.8841851871855909	FALSE
+Metabolism of water-soluble vitamins and cofactors	0.8841851871855909	FALSE
+Recycling of eIF2:GDP	0.8841851871855909	FALSE
+Regulation of FOXO transcriptional activity by acetylation	0.8849123016113317	FALSE
+CREB1 phosphorylation through the activation of Adenylate Cyclase	0.8879897354514006	FALSE
+ADORA2B mediated anti-inflammatory cytokines production	0.8896730334919177	FALSE
+Drug-mediated inhibition of ERBB2 signaling	0.8902375677260046	FALSE
+Drug resistance in ERBB2 KD mutants	0.8902375677260046	FALSE
+Resistance of ERBB2 KD mutants to trastuzumab	0.8902375677260046	FALSE
+Resistance of ERBB2 KD mutants to sapitinib	0.8902375677260046	FALSE
+Resistance of ERBB2 KD mutants to tesevatinib	0.8902375677260046	FALSE
+Resistance of ERBB2 KD mutants to neratinib	0.8902375677260046	FALSE
+Resistance of ERBB2 KD mutants to osimertinib	0.8902375677260046	FALSE
+Resistance of ERBB2 KD mutants to afatinib	0.8902375677260046	FALSE
+Resistance of ERBB2 KD mutants to AEE788	0.8902375677260046	FALSE
+Resistance of ERBB2 KD mutants to lapatinib	0.8902375677260046	FALSE
+Drug resistance in ERBB2 TMD/JMD mutants	0.8902375677260046	FALSE
+MECP2 regulates transcription of neuronal ligands	0.8925979676433203	FALSE
+Integration of energy metabolism	0.8925979676433203	FALSE
+RNA Polymerase I Promoter Opening	0.8925979676433203	FALSE
+TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain	0.8925979676433203	FALSE
+RHO GTPases activate KTN1	0.8925979676433203	FALSE
+Ionotropic activity of kainate receptors	0.8925979676433203	FALSE
+Activation of Ca-permeable Kainate Receptor	0.8925979676433203	FALSE
+Regulation of FZD by ubiquitination	0.8925979676433203	FALSE
+POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation	0.8925979676433203	FALSE
+GRB2:SOS provides linkage to MAPK signaling for Integrins	0.8941313824498831	FALSE
+AKT phosphorylates targets in the nucleus	0.8957600090323422	FALSE
+Anchoring of the basal body to the plasma membrane	0.8962813242553852	FALSE
+Platelet activation, signaling and aggregation	0.8962813242553852	FALSE
+Glycerophospholipid biosynthesis	0.897077569284978	FALSE
+Meiosis	0.8987717002019011	FALSE
+RNA Polymerase III Transcription Termination	0.8987717002019011	FALSE
+Cell junction organization	0.8991969763204104	FALSE
+NOTCH2 intracellular domain regulates transcription	0.9003472672699857	FALSE
+RUNX1 and FOXP3 control the development of regulatory T lymphocytes (Tregs)	0.9026223959508364	FALSE
+Receptor Mediated Mitophagy	0.9050237942706796	FALSE
+Golgi Associated Vesicle Biogenesis	0.9058191365908659	FALSE
+Ligand-independent caspase activation via DCC	0.9058191365908659	FALSE
+Toll-like Receptor Cascades	0.9058191365908659	FALSE
+Downstream TCR signaling	0.9058191365908659	TRUE
+Cytosolic tRNA aminoacylation	0.9058191365908659	FALSE
+Signaling by PTK6	0.9058191365908659	FALSE
+Signaling by Non-Receptor Tyrosine Kinases	0.9058191365908659	FALSE
+HDL assembly	0.9058191365908659	FALSE
+Regulation of PTEN localization	0.9058191365908659	FALSE
+Signaling by EGFR in Cancer	0.9058191365908659	FALSE
+Advanced glycosylation endproduct receptor signaling	0.9058191365908659	FALSE
+Interleukin-6 signaling	0.9058191365908659	FALSE
+MMR	0.9058191365908659	FALSE
+Pentose phosphate pathway	0.9059730041806642	FALSE
+Role of ABL in ROBO-SLIT signaling	0.907107191984634	FALSE
+ADP signalling through P2Y purinoceptor 12	0.907107191984634	FALSE
+Cell-extracellular matrix interactions	0.9102229416131189	FALSE
+GABA B receptor activation	0.9105631255192735	FALSE
+Activation of GABAB receptors	0.9105631255192735	FALSE
+GRB2 events in EGFR signaling	0.9105631255192735	FALSE
+EPH-Ephrin signaling	0.9105631255192735	FALSE
+Cobalamin (Cbl, vitamin B12) transport and metabolism	0.9105631255192735	FALSE
+Beta oxidation of octanoyl-CoA to hexanoyl-CoA	0.9105631255192735	FALSE
+MET interacts with TNS proteins	0.9105631255192735	FALSE
+Regulation of gene expression in beta cells	0.9129747075833549	FALSE
+Downregulation of ERBB2:ERBB3 signaling	0.9129747075833549	FALSE
+p130Cas linkage to MAPK signaling for integrins	0.9129747075833549	FALSE
+Translocation of SLC2A4 (GLUT4) to the plasma membrane	0.9129747075833549	FALSE
+COPI-dependent Golgi-to-ER retrograde traffic	0.9129747075833549	FALSE
+Formation of the beta-catenin:TCF transactivating complex	0.9133555377015369	FALSE
+Glycogen breakdown (glycogenolysis)	0.9134507554236307	FALSE
+Toll Like Receptor 7/8 (TLR7/8) Cascade	0.9134507554236307	FALSE
+MyD88 dependent cascade initiated on endosome	0.9134507554236307	FALSE
+RHOA GTPase cycle	0.914905458212595	FALSE
+LXRs regulate gene expression to control bile acid homeostasis	0.9180395171022935	FALSE
+NOSTRIN mediated eNOS trafficking	0.9199464083793318	FALSE
+ABC transporters in lipid homeostasis	0.9212620903908394	FALSE
+Interleukin-35 Signalling	0.9230065558719079	TRUE
+Sealing of the nuclear envelope (NE) by ESCRT-III	0.9244329900839912	FALSE
+GDP-fucose biosynthesis	0.9257832908505639	FALSE
+Sphingolipid de novo biosynthesis	0.9261824594877133	TRUE
+Activation of the phototransduction cascade	0.9308695831377412	FALSE
+Glucagon-like Peptide-1 (GLP1) regulates insulin secretion	0.931665249237235	FALSE
+Acyl chain remodelling of PI	0.9352211060209288	FALSE
+Chemokine receptors bind chemokines	0.9375492314852026	FALSE
+Regulation of cytoskeletal remodeling and cell spreading by IPP complex components	0.9375492314852026	FALSE
+Peptide hormone metabolism	0.9375492314852026	FALSE
+STAT5 activation downstream of FLT3 ITD mutants	0.9375492314852026	FALSE
+GRB7 events in ERBB2 signaling	0.9375492314852026	FALSE
+Loss of function of MECP2 in Rett syndrome	0.9375492314852026	FALSE
+Pervasive developmental disorders	0.9375492314852026	FALSE
+Disorders of Developmental Biology	0.9375492314852026	FALSE
+Disorders of Nervous System Development	0.9375492314852026	FALSE
+Platelet degranulation	0.9375492314852026	FALSE
+IRE1alpha activates chaperones	0.9375492314852026	FALSE
+Transport of nucleosides and free purine and pyrimidine bases across the plasma membrane	0.9382715412288846	FALSE
+Nicotinate metabolism	0.9393038609378749	FALSE
+RHO GTPases activate IQGAPs	0.9393038609378749	FALSE
+Scavenging by Class B Receptors	0.9393038609378749	FALSE
+Defective RIPK1-mediated regulated necrosis	0.9395501015955888	FALSE
+Phase 4 - resting membrane potential	0.9402373285767857	FALSE
+Pyruvate metabolism	0.9404284492271047	TRUE
+Adenylate cyclase activating pathway	0.9430085869447309	FALSE
+Regulation of BACH1 activity	0.9430085869447309	FALSE
+RHOF GTPase cycle	0.9457510771938034	FALSE
+RUNX2 regulates chondrocyte maturation	0.9457510771938034	FALSE
+NCAM1 interactions	0.948021191843439	FALSE
+HDL clearance	0.9494310480338111	FALSE
+Regulation of signaling by NODAL	0.9494310480338111	FALSE
+Activation of IRF3, IRF7 mediated by TBK1, IKBKE	0.9494310480338111	FALSE
+PI Metabolism	0.9513191449483063	FALSE
+PTK6 Regulates Cell Cycle	0.9513966823643466	FALSE
+Creation of C4 and C2 activators	0.9516072571121792	FALSE
+Classical antibody-mediated complement activation	0.9516072571121792	FALSE
+ERK/MAPK targets	0.9520161682427822	FALSE
+Vasopressin regulates renal water homeostasis via Aquaporins	0.9520161682427822	FALSE
+Aquaporin-mediated transport	0.9520161682427822	FALSE
+TCR signaling	0.9535898352390326	TRUE
+Potassium Channels	0.9535898352390326	FALSE
+tRNA Aminoacylation	0.9535898352390326	FALSE
+Activation of kainate receptors upon glutamate binding	0.954871797855422	FALSE
+Methionine salvage pathway	0.9550952015036601	FALSE
+Propionyl-CoA catabolism	0.9565638767179395	FALSE
+Detoxification of Reactive Oxygen Species	0.9565638767179395	FALSE
+RIP-mediated NFkB activation via ZBP1	0.9565638767179395	FALSE
+RUNX2 regulates genes involved in cell migration	0.9565638767179395	FALSE
+Acyl chain remodelling of PG	0.9580593114443489	FALSE
+PI3K events in ERBB2 signaling	0.9587452470307745	FALSE
+Degradation of cysteine and homocysteine	0.9587452470307745	FALSE
+Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models	0.9587452470307745	FALSE
+Neurodegenerative Diseases	0.9587452470307745	FALSE
+Defective Intrinsic Pathway for Apoptosis	0.9587452470307745	FALSE
+Listeria monocytogenes entry into host cells	0.9587452470307745	FALSE
+Amino acid transport across the plasma membrane	0.9587452470307745	FALSE
+p38MAPK events	0.9588258911207321	FALSE
+Class I peroxisomal membrane protein import	0.9588258911207321	FALSE
+FLT3 signaling in disease	0.9588258911207321	FALSE
+Antigen activates B Cell Receptor (BCR) leading to generation of second messengers	0.9614435210527618	FALSE
+Visual phototransduction	0.9614435210527618	FALSE
+Metabolism of vitamins and cofactors	0.9614435210527618	FALSE
+MET activates PTK2 signaling	0.9614435210527618	FALSE
+Extracellular matrix organization	0.9614435210527618	FALSE
+Synthesis of PIPs at the plasma membrane	0.9614435210527618	FALSE
+HS-GAG biosynthesis	0.9614435210527618	FALSE
+GAB1 signalosome	0.9614435210527618	FALSE
+Signaling by NOTCH1 PEST Domain Mutants in Cancer	0.9614435210527618	FALSE
+Signaling by NOTCH1 in Cancer	0.9614435210527618	FALSE
+Constitutive Signaling by NOTCH1 PEST Domain Mutants	0.9614435210527618	FALSE
+Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer	0.9614435210527618	FALSE
+Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants	0.9614435210527618	FALSE
+Release of apoptotic factors from the mitochondria	0.9614435210527618	FALSE
+Heparan sulfate/heparin (HS-GAG) metabolism	0.9637609722855904	FALSE
+E3 ubiquitin ligases ubiquitinate target proteins	0.9638426594143759	FALSE
+Signaling by Interleukins	0.9640928778742319	FALSE
+Class B/2 (Secretin family receptors)	0.9640928778742319	FALSE
+Signaling by NOTCH2	0.9640928778742319	FALSE
+Toll Like Receptor 4 (TLR4) Cascade	0.9645887080223156	FALSE
+Scavenging of heme from plasma	0.9646565585421994	FALSE
+Phospholipid metabolism	0.9654928966537466	FALSE
+Neuronal System	0.9654928966537466	FALSE
+Unblocking of NMDA receptors, glutamate binding and activation	0.9654928966537466	FALSE
+Phosphorylation of proteins involved in G1/S transition by active Cyclin E:Cdk2 complexes	0.9654928966537466	FALSE
+Signaling by NOTCH1	0.9668893230654413	FALSE
+Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation	0.9668893230654413	FALSE
+Telomere C-strand synthesis initiation	0.9676157742060486	FALSE
+Energy dependent regulation of mTOR by LKB1-AMPK	0.9677860454469686	FALSE
+Bacterial Infection Pathways	0.9677860454469686	FALSE
+Rap1 signalling	0.9679229434742391	FALSE
+Golgi-to-ER retrograde transport	0.9681969746636413	FALSE
+Activation of AMPK downstream of NMDARs	0.9686955194211582	FALSE
+Activated NTRK2 signals through PLCG1	0.9722947156321664	FALSE
+Cell-cell junction organization	0.9722947156321664	FALSE
+Intra-Golgi and retrograde Golgi-to-ER traffic	0.9724144625938339	FALSE
+Interleukin-37 signaling	0.9724144625938339	FALSE
+Downregulation of TGF-beta receptor signaling	0.972693513784438	FALSE
+RHO GTPases activate PKNs	0.9747466559367439	FALSE
+RUNX1 regulates transcription of genes involved in differentiation of myeloid cells	0.9747466559367439	FALSE
+DARPP-32 events	0.9747466559367439	FALSE
+Cardiac conduction	0.9763675371229164	FALSE
+PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling	0.9802204495063662	FALSE
+N-glycan antennae elongation in the medial/trans-Golgi	0.9802204495063662	FALSE
+Reactions specific to the complex N-glycan synthesis pathway	0.9802204495063662	FALSE
+Clathrin-mediated endocytosis	0.9802204495063662	FALSE
+Cell surface interactions at the vascular wall	0.9802204495063662	FALSE
+Early SARS-CoV-2 Infection Events	0.9802204495063662	FALSE
+EGFR downregulation	0.9802204495063662	FALSE
+GPCR ligand binding	0.9802204495063662	FALSE
+Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta)	0.9802204495063662	FALSE
+Negative regulation of the PI3K/AKT network	0.9802204495063662	FALSE
+Calcineurin activates NFAT	0.9805239618331126	FALSE
+Regulation of TP53 Activity through Association with Co-factors	0.9805239618331126	FALSE
+Interleukin-2 signaling	0.9805239618331126	FALSE
+Regulation of IFNG signaling	0.9805239618331126	FALSE
+Nucleotide catabolism	0.9805239618331126	FALSE
+Cilium Assembly	0.9807929954687667	FALSE
+Glycogen synthesis	0.9817243652785735	FALSE
+Meiotic recombination	0.9827937797390777	FALSE
+Intra-Golgi traffic	0.9827937797390777	FALSE
+Leishmania infection	0.9827937797390777	FALSE
+Parasitic Infection Pathways	0.9827937797390777	FALSE
+Pyruvate metabolism and Citric Acid (TCA) cycle	0.9827937797390777	TRUE
+Deactivation of the beta-catenin transactivating complex	0.9827937797390777	FALSE
+Citric acid cycle (TCA cycle)	0.9827937797390777	FALSE
+RHO GTPases activate PAKs	0.9827937797390777	FALSE
+Cell-Cell communication	0.9827937797390777	FALSE
+CLEC7A/inflammasome pathway	0.9827937797390777	FALSE
+Signaling by FLT3 fusion proteins	0.9827937797390777	FALSE
+Platelet Adhesion to exposed collagen	0.9833781089801414	FALSE
+Signaling by Leptin	0.9833781089801414	FALSE
+Synthesis of PIPs at the ER membrane	0.9833781089801414	FALSE
+WNT ligand biogenesis and trafficking	0.9937272953832496	FALSE
+TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation	0.9937272953832496	FALSE
+Gap junction trafficking and regulation	0.9950189193439376	FALSE
+GABA receptor activation	0.9950189193439376	FALSE
+FGFR2 ligand binding and activation	0.9950189193439376	FALSE
+Class A/1 (Rhodopsin-like receptors)	0.9955898881172949	FALSE
+Peptide ligand-binding receptors	0.9955898881172949	FALSE
+Pre-NOTCH Processing in Golgi	0.9955898881172949	FALSE
+Anchoring fibril formation	0.9956164018822817	FALSE
+Hemostasis	0.9962281754606319	FALSE
+Mitochondrial tRNA aminoacylation	0.9972104751627431	FALSE
+Apoptotic factor-mediated response	0.9972104751627431	FALSE
+CDC42 GTPase cycle	0.9972104751627431	FALSE
+Signaling by ALK in cancer	0.9988166811468631	FALSE
+Signaling by ALK fusions and activated point mutants	0.9988166811468631	FALSE
+Synthesis of PC	0.9995003878673445	FALSE
+Purine salvage	0.9995003878673445	FALSE
+Lipoprotein metabolism	0.9999552385178551	FALSE
+Amino Acid conjugation	NA	FALSE
+Conjugation of carboxylic acids	NA	FALSE
+Lectin pathway of complement activation	NA	FALSE
+Conjugation of salicylate with glycine	NA	FALSE
+Conjugation of benzoate with glycine	NA	FALSE
+Acetylcholine binding and downstream events	NA	FALSE
+Activation of TRKA receptors	NA	FALSE
+NGF-independant TRKA activation	NA	FALSE
+Digestion of dietary carbohydrate	NA	FALSE
+Digestion of dietary lipid	NA	FALSE
+Mineralocorticoid biosynthesis	NA	FALSE
+Metabolism of amine-derived hormones	NA	FALSE
+Thyroxine biosynthesis	NA	FALSE
+Regulation of gene expression in early pancreatic precursor cells	NA	FALSE
+Abacavir transmembrane transport	NA	FALSE
+Ficolins bind to repetitive carbohydrate structures on the target cell surface	NA	FALSE
+Amine ligand-binding receptors	NA	FALSE
+Hormone ligand-binding receptors	NA	FALSE
+Orexin and neuropeptides FF and QRFP bind to their respective receptors	NA	FALSE
+Adrenoceptors	NA	FALSE
+Activation of AMPA receptors	NA	FALSE
+Na+/Cl- dependent neurotransmitter transporters	NA	FALSE
+Rhesus glycoproteins mediate ammonium transport.	NA	FALSE
+Relaxin receptors	NA	FALSE
+Organic cation transport	NA	FALSE
+Organic cation/anion/zwitterion transport	NA	FALSE
+Phase 1 - inactivation of fast Na+ channels	NA	FALSE
+Melanin biosynthesis	NA	FALSE
+Presynaptic nicotinic acetylcholine receptors	NA	FALSE
+Postsynaptic nicotinic acetylcholine receptors	NA	FALSE
+Highly sodium permeable postsynaptic acetylcholine nicotinic receptors	NA	FALSE
+Highly calcium permeable postsynaptic nicotinic acetylcholine receptors	NA	FALSE
+Highly calcium permeable nicotinic acetylcholine receptors	NA	FALSE
+Digestion	NA	FALSE
+Intestinal absorption	NA	FALSE
+Digestion and absorption	NA	FALSE
+Intestinal hexose absorption	NA	FALSE
+LTC4-CYSLTR mediated IL4 production	NA	FALSE
+Defective F9 activation	NA	FALSE
+Atorvastatin ADME	NA	FALSE
+Formation of lateral plate mesoderm	NA	FALSE
+Ciprofloxacin ADME	NA	FALSE

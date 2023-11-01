@@ -1,0 +1,3 @@
+"0","spia_sig <- spia_res %>%"
+"0","    dplyr::filter(pGFdr < 0.05) %>%"
+"0","    mutate(Name = paste(""reactome."", Name, sep = """"))"

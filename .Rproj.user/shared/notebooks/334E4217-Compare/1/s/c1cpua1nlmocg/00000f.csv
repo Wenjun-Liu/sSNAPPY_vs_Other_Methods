@@ -1,0 +1,8 @@
+"0","X <- model.matrix(~ 0 + patient_id + treatment_phase,"
+"0","                  data = dge$samples %>%"
+"0","                      mutate(treatment_phase = factor(treatment_phase, levels = c(""treatment-naive"", ""post-NACT"")))"
+"0",") %>%"
+"0","    set_colnames(str_remove_all(colnames(.), ""patient_id|treatment_phase"")) %>%"
+"0","    .[,colSums(.) != 0]  "
+"0","dge <- estimateDisp(dge, design = X, robust = TRUE)"
+"0","fit <- glmQLFit(dge)"

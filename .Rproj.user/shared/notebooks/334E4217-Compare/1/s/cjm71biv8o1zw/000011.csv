@@ -1,0 +1,1 @@
+"0","spia_res <- readRDS(here::here(""data/spia_res.rds""))"

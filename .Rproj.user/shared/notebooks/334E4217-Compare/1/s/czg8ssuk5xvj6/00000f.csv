@@ -1,0 +1,7 @@
+"0","load(system.file(""extdata"", ""entrez2name.rda"", package = ""sSNAPPY""))"
+"0","temp <- topTable %>%"
+"0","        mutate(entrezid = paste(""ENTREZID:"", entrezid, sep = """")) %>%"
+"0","        drop_na()"
+"0","ranked_list <- temp %>%"
+"0","        pull(rankingStat) %>%"
+"0","        set_names(temp$entrezid)"

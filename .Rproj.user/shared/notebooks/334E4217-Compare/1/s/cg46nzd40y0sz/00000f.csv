@@ -1,0 +1,6 @@
+"0","formatP <- function(p, m = 0.0001){"
+"0","    out <- rep("""", length(p))"
+"0","    out[p < m] <- sprintf(""%.2e"", p[p<m])"
+"0","    out[p >= m] <- sprintf(""%.4f"", p[p>=m])"
+"0","    out"
+"0","}"
