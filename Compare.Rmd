@@ -1,31 +1,17 @@
 ---
 title: "Compare *sSNAPPY* against other pathway analysis methods"
-author: 
-  - name: Wenjun Liu
-    affiliation: Dame Roma Mitchell Cancer Research Laboratories, Adelaide Medical School, Faculty of Health and Medical Sciences, University of Adelaide, Adelaide, Australia
-    email: Corresponding Author wenjun.liu@adelaide.edu.au
-  - name: Ville-Petteri Mäkinen
-    affiliation: 
-    - Computational Medicine, Faculty of Medicine, University of Oulu, Oulu, Finland
-    - Center for Life Course Health Research, Faculty of Medicine, University of Oulu, Oulu, Finland
-  - name: Wayne D. Tilley
-    affiliation: Dame Roma Mitchell Cancer Research Laboratories, Adelaide Medical School, Faculty of Health and Medical Sciences, University of Adelaide, Adelaide, Australia
-  - name: Stephen M. Pederson
-    affiliation: 
-    - Dame Roma Mitchell Cancer Research Laboratories, Adelaide Medical School, Faculty of Health and Medical Sciences, University of Adelaide, Adelaide, Australia
-    - Black Ochre Data Laboratories, Telethon Kids Institute, Adelaide, Australia
-    - John Curtin School of Medical Research, Australian National University, Canberra, Australia
+bibliography: bibliography.bib
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
 date: "2023-09-21"
 ---
 
-In this R Markdown, we compare three independent pathway analysis methods: *GSEA*, *SPIA* and *fry* against the single-sample pathway analysis method *sSNAPPY*.
+In this R Markdown, we compare three existing pathway analysis methods: *SPIA*, *GSEA*,and *fry* against the single-sample pathway analysis method *sSNAPPY*.
 
 # Preparation
 
-Firstly, packages required and the example dataset used in the main manuscript are loaded in. 
+Firstly, packages required and the example dataset used in the main *sSNAPPY* manuscript are loaded in. 
 
 ```{r, message=FALSE, warning=FALSE}
 library(sSNAPPY)
@@ -43,7 +29,6 @@ library(UpSetR)
 library(graphite)
 library(SPIA)
 library(pander)
-library(VennDiagram)
 ```
 
 ```{r formatP}
@@ -63,7 +48,7 @@ sample_meta <- read_tsv(here::here("data/sample_meta.tsv"), col_types = "cfccncn
 dge <- readRDS(here::here("data/dge.rds"))
 ```
 
-Reactome pathway topology information was retrieved using the `retrieve_topology` function. 
+Reactome[@reactome2021] pathway topology information was retrieved using the `retrieve_topology` functionc from *sSNAPPY*. 
 
 ```{r, eval=FALSE}
 gsTopology <- retrieve_topology(database = "reactome", species = "hsapiens")
@@ -81,13 +66,13 @@ sSNAPPY_rs <- read_tsv("data/sSNAPPY_output.tsv")
 
 # Pathway analysis using other methods
 
-## GSEA
+## SPIA
 
-To perform the gene-set enrichment analysis (*GSEA*), differential expresion analysis was firstly performed to derive the ranking statistics of each gene.
+Firstly, *sSNAPPY* was compared against an existing topology-based method *SPIA*[@Tarca2009]. While the scoring algorithm of *sSNAPPY* was adopted from *SPIA*, there are two fundamental differences between the two methods. *SPIA* relies on the detection of differentially expressed genes (DEGs) and only allows group-level analysis[@Tarca2009]. In comparison, *sSNAPPY* does not require any pre-selection of genes and can be used to score pathway perturbation within indiviudal samples. 
 
 ### DE Analysis
 
-Differential expression analysis was performed through *edgeR* to test average gene-level chemotherapy treatment response. Model matrix in the form of `model.matrix(~ 0 + patient_id + treatment_phase, data = dge$samples)` was constructed to nest samples by patients. 
+To apply *SPIA*, differential expression analysis was firstly performed through *edgeR*[@Smyth_2004]. Model matrix in the form of `model.matrix(~ 0 + patient_id + treatment_phase, data = dge$samples)` was constructed to nest samples by patients. 
 
 ```{r fit}
 X <- model.matrix(~ 0 + patient_id + treatment_phase,
@@ -123,8 +108,57 @@ DEGs <- topTable %>%
 ```
 
 
-Genes with a FDR < 0.05 were determined to be differentially expressed. `r nrow(topTable %>% dplyr::filter(DE))` DEGs were detected among the `r nrow(topTable)` tested genes. The ranking statistic of genes were calculated based on the DE analysis results by `-sign(logFC)*log10(PValue)`.
+Using a FDR cut-off of 0.05, `r nrow(topTable %>% dplyr::filter(DE))` DEGs were detected among the `r nrow(topTable)` tested genes.
 
+While in the full *SPIA* workflow, both topology-based perturbation analysis and conventional over-representation analysis will be performed. We only compared the results of *sSNAPPY* against the perturbation analysis component of *SPIA*. 
+
+
+```{r eval=FALSE}
+graphite_reactome <- pathways("hsapiens", "reactome")
+graphite_reactome <- convertIdentifiers(graphite_reactome, "ENTREZID")
+prepareSPIA(graphite_reactome, "graphite_reactome")
+DE_vector <- DEGs$logFC %>%
+    set_names(paste("ENTREZID:", DEGs$entrezid, sep = ""))
+all_entrez <- dge$genes %>%
+    unnest(entrezid) %>%
+    drop_na() %>%
+    pull(entrezid) %>%
+    paste("ENTREZID:", ., sep = "")
+spia_res <- runSPIA(de = DE_vector, all = all_entrez, "graphite_reactome")
+saveRDS(spia_res, here::here("data/spia_res.rds"))
+```
+
+```{r echo=FALSE}
+spia_res <- readRDS(here::here("data/spia_res.rds"))
+```
+
+Since *SPIA* only considers pathways with DEGs and a low number of DEGs were detected in this dataset, it is not surprising to observe that none of the Reactome pathway was considered as significantly perturbed by *SPIA* (FDR < 0.05). 
+*SPIA* output was ranked by the perturbation p-value and the 5 most highly ranked pathways are displayed.
+
+```{r}
+spia_res %>%
+    mutate(Pert_FDR = p.adjust(pPERT, method = "fdr")) %>%
+    arrange(pPERT) %>%
+    .[1:5,] %>%
+    dplyr::select(
+        Pathway = Name, 
+        `Perturbaton Score` = tA,
+        PValue = pPERT, FDR = Pert_FDR
+    ) %>%
+    pander(
+        caption = "*Top 5 Reactome pathways with smallest pertubation p-values 
+        in SPIA output. None of the pathway was considered as significantly 
+        perturbed using a FDR cut-off of 0.05.*"
+    )
+```
+
+
+
+## GSEA
+
+Following *SPIA*, we also performed a gene-set enrichment analysis (*GSEA*)[@Subramanian2005-lx]. 
+Instead of requiring pre-selection of DEGs, *GSEA* requires a ranking for each gene. 
+We calculated the ranking statistic of genes basing on the DE analysis results by `-sign(logFC)*log10(PValue)`.
 A named vector where the values are the ranking statistic and the names are genes' entrez id was generated. 
 
 ```{r ranked}
@@ -151,20 +185,38 @@ gsea_sig <- gsea %>%
 
 Using *GSEA* and a significance cut-off of FDR < 0.05, `r nrow(gsea_sig)` out of the `r length(reactome_gs)` tested pathways were considered as significantly enriched, among which 68 pathways were also found to be significantly perturbed by *sSNAPPY*. 
 
-```{r gsea_venn, fig.height=4, fig.width=5, fig.cap="*Overlap between pathways that are considered as significantly impacted by GSEA and sSNAPPY*"}
-grid.newpage()
-gsea_venn <- venn.diagram(
-    list(
-        GSEA = gsea_sig$pathway,
-        sSNAPPY = sSNAPPY_rs$gs_name
-    ), 
-    type = "venn", scaled = TRUE, euler.d = TRUE,
-    col = c("#ED90A4", "#ACA2EC"), 
-    fill = c("#ED90A4", "#ACA2EC"), 
-    filename = NULL,
-    cat.pos = c(-40, 30)
-)
-grid.draw(gsea_venn)
+
+While *GSEA* does not account for the pathway topology information, it returns a signed normalised enrichment score (NES) for each pathway. 
+A positive NES indicates that the pathway is more enriched in genes that are highly expressed[@Subramanian2005-lx]. 
+However, NES is often over-interpreted to infer the directionality of changes in pathway activity. 
+We compared the directional changes that were predicted by *sSNAPPY* against the sign of NES. 
+Interestingly, the directionality aligned for all pathways that were considered as significantly impacted by both methods. 
+
+```{r, fig.cap="*Overlap between pathways that are considered as significantly impacted by GSEA and sSNAPPY.*"}
+sSNAPPY_dir <- sSNAPPY_rs %>% 
+    mutate(Direction = ifelse(logFC < 0, "sSNAPPY_Inhibited", "sSNAPPY_Activated")) %>% 
+    split(.$Direction) %>%
+    lapply(pull, gs_name)
+gsea_sig_dir  <- gsea_sig %>% 
+    mutate(Direction = ifelse(NES < 0, "GSEA_Inhibited", "GSEA_Activated")) %>%
+    split(.$Direction) %>%
+    lapply(pull, pathway)
+c(sSNAPPY_dir, gsea_sig_dir) %>%
+    fromList() %>%
+    upset(
+        sets = colnames(.),
+        keep.order = TRUE,
+        queries = list(
+        list(query = intersects,
+             params = list("sSNAPPY_Inhibited", "GSEA_Inhibited"),
+             color = "blue",
+             active = T), 
+        list(query = intersects,
+             params = list("sSNAPPY_Activated", "GSEA_Activated"),
+             color = "red",
+             active = T)
+        )
+    )
 ```
 
 The full result obtained using GSEA was saved as `output/gsea.tsv`. 
@@ -192,7 +244,7 @@ gsea %>%
 
 ## fry
 
-The other non-topology-based method applied to the example dataset is *fry*, which is a fast version of *roast* (rotation gene set testing). Instead of relying on pre-performed DE analysis results, *fry*/*roast* only requires the logCPM matrix and a design matrix as input. 
+The other non-topology-based method applied to the example dataset is *fry*, which is a fast version of *roast* (rotation gene set testing)[@wu2010roast]. Instead of relying on pre-performed DE analysis results, *fry*/*roast* only requires the logCPM matrix and a design matrix as input. 
 
 ```{r} 
 fry_res <- logCPM %>%
@@ -210,21 +262,64 @@ fry_sig <- fry_res %>%
 
 Using the directional version of *fry* and the same statistics threshold of FDR < 0.05, `r nrow(fry_sig)` pathways were considered as significantly enriched, 44 of which were also considered to be significantly perturbed by *sSNAPPY*. 
 
-```{r fry_venn, fig.height=4, fig.width=5, fig.cap="*Overlap between pathways that are considered as significantly impacted by fry and sSNAPPY*"}
-grid.newpage()
-fry_venn <- venn.diagram(
-    list(
-        fry = fry_sig$Pathway,
-        sSNAPPY = sSNAPPY_rs$gs_name
-    ), 
-    type = "venn", scaled = TRUE, euler.d = TRUE,
-    fill = c("#ACA2EC", "#ABB150"), 
-    col = c("#ACA2EC", "#ABB150"), 
-    filename = NULL,
-    cat.pos = c(-40, 40)
-)
-grid.draw(fry_venn)
+
+*fry* also returns a 'Direction' column as part of its output, which indicates whether genes in the pathway turn to be more up- or down-regulated.
+The direction returned by *fry* was compared against the directional prediction made by *sSNAPPY*. 
+While the directionality aligned for most of the pathways that were considered as significant by both methods, some disconcordance arose.
+
+```{r, fig.cap="*Overlap between pathways that are considered as significantly impacted by fry and sSNAPPY.*"}
+fry_sig_dir  <- fry_sig %>% 
+    mutate(Direction = ifelse(
+        Direction == "Down", "fry_Inhibited", "fry_Activated"
+    )) %>%
+    split(.$Direction) %>%
+    lapply(pull, Pathway)
+c(sSNAPPY_dir, fry_sig_dir) %>%
+    fromList() %>%
+    upset(
+        sets = colnames(.),
+        keep.order = TRUE,
+        queries = list(
+        list(query = intersects,
+             params = list("sSNAPPY_Inhibited", "fry_Inhibited"),
+             color = "blue",
+             active = T),
+        list(query = intersects,
+             params = list("sSNAPPY_Activated", "fry_Activated"),
+             color = "red",
+             active = T)
+    )
+    )
 ```
+
+```{r}
+fry_act_sSN_inh <- intersect(sSNAPPY_dir$sSNAPPY_Inhibited, fry_sig_dir$fry_Activated)
+```
+
+For example, the pathway **Terminal pathway of complement** was considered as significantly inhibited by *sSNAPPY* but significant activated by *fry*. 
+This pathway contains 8 genes but only gene *CLU* had detectable expression levels in this dataset and was found to be significantly up-regulated in the DE analysis. 
+
+
+```{r}
+terminal_gene <- entrez2name %>%
+    dplyr::filter(entrezid %in% rownames(gsTopology[[fry_act_sSN_inh]])) %>%
+    pull(mapTo)
+topTable %>%
+    dplyr::filter(
+        gene_name %in% terminal_gene
+    ) %>%
+    dplyr::select(
+        Gene = gene_name, logFC, FDR, DE
+    ) %>%
+    pander(
+        caption = "The differential expression analysis output for the gene that is
+        involved in the Reactome Terminal pathway of complement pathway."
+    )
+```
+
+*CLU* encodes plasma protein clusterin that is able to inhibit the insertion of complement complexes into cell membranes by binding to them[@chauhan2006presence]. 
+Therefore,  this gene has a repressor role on the **Terminal pathway of complement** pathway, which is [clear in the pathway topology provided by the Reactome database](https://reactome.org/PathwayBrowser/#/R-HSA-166658&SEL=R-HSA-173723&PATH=R-HSA-168256,R-HSA-168249).
+Inspecting this pathway demonstrated the importance of incorporating pathway topology information to predict change in pathway activity and revealed the strength of *sSNAPPY* over non-topological methods such as *fry*.
 
 The full result obtained using *fry* was saved as `output/fry.tsv`. 
 
@@ -245,105 +340,4 @@ fry_res %>%
     )
 ```
 
-## SPIA
-
-Lastly, the topology-based analysis method *SPIA* was also applied. *SPIA* requires the the logFCs of differentially expressed genes as an input and has two component: 1) topology-based perturbation analysis and 2) conventional over-representation analysis. Hence, 2 p-values: pPert and pNDE were derived for each pathway, and are combined using the Fisher's method. 
-
-```{r eval=FALSE}
-graphite_reactome <- pathways("hsapiens", "reactome")
-graphite_reactome <- convertIdentifiers(graphite_reactome, "ENTREZID")
-prepareSPIA(graphite_reactome, "graphite_reactome")
-DE_vector <- DEGs$logFC %>%
-    set_names(paste("ENTREZID:", DEGs$entrezid, sep = ""))
-all_entrez <- dge$genes %>%
-    unnest(entrezid) %>%
-    drop_na() %>%
-    pull(entrezid) %>%
-    paste("ENTREZID:", ., sep = "")
-spia_res <- runSPIA(de = DE_vector, all = all_entrez, "graphite_reactome")
-saveRDS(spia_res, here::here("data/spia_res.rds"))
-```
-
-```{r echo=TRUE}
-spia_res <- readRDS(here::here("data/spia_res.rds"))
-```
-
-```{r}
-spia_sig <- spia_res %>%
-    dplyr::filter(pGFdr < 0.05) %>%
-    mutate(Name = paste("reactome.", Name, sep = ""))
-```
-
-By applying a cut-off of 0.05 on the FDR derived from the Fisher p-values, `r nrow(spia_sig)` pathways' activities were considered to be significantly altered. 6 of those pathways were defined to be significantly perturbed by sSNAPPY. It's important to note that compared to the other methods where all pathways were tested, only `r nrow(spia_res)` pathways were tested by SPIA as pathways that did not contain DEGs were left out. 
-
-Most of the pathways that were considered as significantly impacted by *SPIA* are immune-related process. Compared to other methods, sPIA showed a lack of power in detecting significant pathway perturbation. 
-
-```{r}
-spia_sig %>%
-    dplyr::select(
-        Pathway = Name, pNDE,  pPERT, pGFdr, Status) %>%
-    pander(
-        caption = "Reactome pathways that were considered as significantly impacted
-        by chemotherapy throguh SPIA"
-    ) 
-```
-
-# Comparison
-
-Various numbers of significance were detected using each pathway analysis method, with the highest number of significance returned by GSEA. 
-
-```{r}
-allMethod_sig <- list(
-        sSNAPPY = sSNAPPY_rs$gs_name, 
-        GSEA = gsea_sig$pathway, 
-        fry = fry_sig$Pathway, 
-        SPIA = spia_sig$Name
-    ) 
-allMethod_sig %>%
-    vapply(length, numeric(1)) %>%
-    enframe(
-        name = "Method", 
-        value = "Number of significance"
-    ) %>%
-    arrange(`Number of significance`) %>%
-    pander(
-        caption = "Number of significantly impacted Reactome pathways found by each pathway analysis method."
-    )
-```
-
-Pathways considered to be significantly impacted by each analysis method were intersected. 
-
-```{r, fig.cap="*Intersection of significantly chemotherapy-induced changes in Reactome pathway activities that were detected using sSNAPPY, GSEA, fry and SPIA. 2 pathways were consistently significant while 3 pathways were defined to be significant by all methods but SPIA*"}
-
-allMethod_sig %>%
-    fromList() %>%
-    upset(
-        sets = colnames(.), 
-        nintersects = NA, 
-        queries = list(
-          list(query = intersects,
-               params = list(names(allMethod_sig)),
-               color = "orange",
-               active = T), 
-          list(query = intersects,
-               params = list(names(allMethod_sig)[-4]),
-               color = "purple",
-               active = T)
-        )
-    )
-```
-
-2 pathways: Translocation of ZAP-70 to Immunological synapse and Generation of second messenger molecules were found to be significantly impacted by the chemotherapy by all methods, and 32 pathways were significant in results returned by *sSNAPPY*, *fry* and *GSEA*. 
-
-```{r}
-overlap_3methods <- allMethod_sig[c("GSEA", "fry", "sSNAPPY")] %>%
-    Reduce(intersect,.) %>%
-    setdiff(., allMethod_sig$SPIA)
-```
-
-The 32 pathways that were significant in results returned by all 3 methods were: `r str_remove_all(overlap_3methods, "reactome.")`.
-
-The DNA damage response and repair pathway **SUMOylation of DNA damage response and repair proteins** was reported in the original study and considered as significantly impacted by all 3 methods: *sSNAPPY*, *fry* and *GSEA*. However, only *sSNAPPY* is capable of accounting for gene-gene interaction to predict the directionality of change in pathway acitvities. 
-
-
-
+# References
